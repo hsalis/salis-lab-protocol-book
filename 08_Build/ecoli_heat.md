@@ -1,6 +1,6 @@
 # Transformation by heat shock
 
-
+`PROTOCOL DUMP PLEASE FORMAT`
 
 ### Preparing Chemical Competent Cells
 
@@ -12,7 +12,7 @@
 
 4. Grow in 37C shaker for about 3 hrs, or until OD = 0.2-0.4.
 
-5. While cells are growing:\* Label 25 microcentrifuge tubes and store at -80C\* Make 2x36 mL 0.125 M CaCl2 by combining 4.5 mL 1 M CaCl2 + 31.5 mL autoclaved       ddH2O each in 2 50 mL Falcon tubes
+5. While cells are growing:\* Label 25 microcentrifuge tubes and store at -80C\* Make 2x36 mL 0.125 M CaCl2 by combining 4.5 mL 1 M CaCl2 + 31.5 mL autoclaved       ddH2O each in 2 50 mL Falcon tubes
 
 6. Transfer culture to 2 50 mL Falcon tubes and put on ice for 30 min.
 
@@ -26,9 +26,7 @@
 
 11. Decant supernatant. Add 0.6 mL 0.125 M CaCl2 and 0.4 mL 50% glycerol and gently resuspend by repipetting. Add cells to pre-cooled microcentrifuge tubes in 55 uL aliquots. Store at -80C.
 
-
-
-### Transformation                                                                                                                                   
+### Transformation
 
 1. Pre-heat heat block to 42C. Fill wells that you will use with DI water. Fill an ice bucket with ice.
 

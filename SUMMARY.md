@@ -142,6 +142,7 @@
   * [Sanger](10_Sequencing/sanger.md)
   * [Nanopore](10_Sequencing/nanopore.md)
   * [Illumina](10_Sequencing/illumina.md)
+  * [LCR-seq](10_Sequencing/lcr-seq.md)
 
 ## Appendix
 

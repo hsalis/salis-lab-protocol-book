@@ -1,6 +1,6 @@
 # RNA extraction
 
-
+`PROTOCOL DUMP PLEASE FORMAT`
 
 Things to check before starting the protocol
 
@@ -10,17 +10,13 @@ Things to check before starting the protocol
 
 * Thaw an aliquot of yeast tRNA \(25 µg/µL stock concentration\) on ice
 
-
-
 Steps to minimize RNAse contamination
 
-* Cover hands, arms, head, and body with sterile protective gear  \(RNAses are in your saliva, your tears, and on your body surface\).
+* Cover hands, arms, head, and body with sterile protective gear  \(RNAses are in your saliva, your tears, and on your body surface\).
 
 * Wipe down all bench surfaces with RNAse Away
 
-* Use only sterile, disposable plastic tubes, tips, and serological pipettes.  It is important to keep a box set of tips for RNA use only -- do not use these tips for any other labwork, e.g. minipreps.
-
-
+* Use only sterile, disposable plastic tubes, tips, and serological pipettes.  It is important to keep a box set of tips for RNA use only -- do not use these tips for any other labwork, e.g. minipreps.
 
 Protocol Steps
 
@@ -56,7 +52,7 @@ Protocol Steps
 
 16. Incubate at 37 °C for 30 min
 
-17. Add 10.7 µL DNase Inactivation Reagent \(TURBO DNA-free™ Kit\) and mix gently by flicking the tube \[before pipetting the DNase Inactivation Reagent,  flick the tube a couple of times to ensure that the beads are uniformly dispersed\]
+17. Add 10.7 µL DNase Inactivation Reagent \(TURBO DNA-free™ Kit\) and mix gently by flicking the tube \[before pipetting the DNase Inactivation Reagent,  flick the tube a couple of times to ensure that the beads are uniformly dispersed\]
 
 18. Incubate at room temperature for 5-6 min while mixing gently by flicking the tube every 2 min
 
@@ -70,24 +66,20 @@ Protocol Steps
 
 23. Run 1 µL each of the RNA samples from Steps 14 & 20 above \(pre- and post- DNAse treatment\) on a 1% agarose gel to check for RNA integrity.
 
-
-
-See [ZR Soil/Fecal RNA MicroPrep \(Zymo Research\)](http://www.zymoresearch.com/rna/rna-isolation/soil-fecal-plant-rna/zr-soil-fecal-rna-microprep)to see  shows bacterial rRNA \(23S and 16S\)
+See [ZR Soil/Fecal RNA MicroPrep \(Zymo Research\)](http://www.zymoresearch.com/rna/rna-isolation/soil-fecal-plant-rna/zr-soil-fecal-rna-microprep)to see  shows bacterial rRNA \(23S and 16S\)
 
 ![](https://lh6.googleusercontent.com/EkuOhkphL6WlCx1cGxDrq1JvoERWL1yVCB_g5ZnTs_mxvoxmtin5PQX5gyL9OlksWHUi3bfYvda369tHjwQQdEFq8FxGbWJDKTyX3qxurCXDgB1lh5SbA47Vw6iKGCjhDg6Vs9yy)
 
 -Two sharp bands at ~1 kb confirm RNA integrity;
 
-- fuzzy/ smeary bands indicate degradation
-
-
+* fuzzy/ smeary bands indicate degradation
 
 1. Aliquot 20 µL each of the RNA samples from Step 22 into four fresh RNase-free tubes a-d
 
 2. Add 0.2 µL of yeast tRNA \(25 µg/µL stock concentration\) to two aliquots \(a & b\) from Step 24 above \[end concentration 250 ng/µL tRNA\]
 
-3. Freeze down all the five tubes at -80 °C: the original tube from Step 22 and tubes a-d from Steps 24 
-   &
+3. Freeze down all the five tubes at -80 °C: the original tube from Step 22 and tubes a-d from Steps 24   
+   &  
     25.
 
 

@@ -1,10 +1,8 @@
 # SDS-PAGE
 
-
+`PROTOCOL DUMP PLEASE FORMAT`
 
 A. Solution Recipes
-
-
 
 3.5X bis-Tris gel buffer
 
@@ -12,23 +10,17 @@ A. Solution Recipes
 
 * pH 6.5-6.8 with HCl \(around 10 mL 12 M HCl for 1 L buffer\)
 
-
-
 Acrylamide Solution
 
 * 40% \(w/v\) acrylamide/bisacrylamide \(37.5/1\)
 
 * ddH2O to volume
 
-
-
 10% APS \(make new APS each time you run a gel\)
 
 * 10% \(w/v\) ammonium persulfate
 
 * ddH2O to volume
-
-
 
 5X Low-MW Running Buffer \(for separating 2-50 kDa proteins\)
 
@@ -44,8 +36,6 @@ Acrylamide Solution
 
 * Add fresh before running gel:sodium bisulfite to 5 mM
 
-
-
 Destaining Solution for Sypro Ruby-Stained Gels
 
 * 10% \(v/v\) ethanol
@@ -53,8 +43,6 @@ Destaining Solution for Sypro Ruby-Stained Gels
 * 7% \(v/v\) acetic acid
 
 * ddH2O to volume
-
-
 
 Resolving Gel Solution
 
@@ -70,8 +58,6 @@ Resolving Gel Solution
 
   * 6-7 μL TEMED per gel
 
-
-
 Stacking Gel Solution
 
 * 1X bis-Tris buffer
@@ -86,17 +72,13 @@ Stacking Gel Solution
 
   * 7 μL TEMED per gel
 
-
-
 B. Casting the gel
 
 ![](https://lh5.googleusercontent.com/78lDVW1ytqn53d5m0LWpmNDETGE2NB_-pDqqszvwZsuqZOyWHYxxc5Nkm8EU7v3emX1NpJoYoMXqvSOmfesGwbaLDH5ILX5EBss9f_K5hs4n0vw-g6mpmLCSTIBRzKL7p72r84mC)![](https://lh4.googleusercontent.com/77yOlJy4CcvMx6tl3e6xGBQ0TYsu7yuOnpaoaZDA6whkQPXJuriSMjnyPiZqF8j2dGBDD3ljX45KxA0PRlP1Ax-aZbSZsZ0OCDH6eqZgwgLLzZQJEkzLtXhv7dvOMJKXxnFn2FNr)
 
-
-
-               Gel casting stand      Gel casting frame
-
-
+```
+           Gel casting stand      Gel casting frame
+```
 
 1. Place the gray gaskets into the holders on the bottom of the casting stand \(Tip: you can coat the gaskets with petroleum jelly to make the seal tighter\)
 
@@ -120,13 +102,7 @@ B. Casting the gel
 10. 1. Tip: add the APS and TEMED quickly and swirl the solution a few times, then immediately cast the gel
 11. Once the stacking gel has set, carefully remove the comb
 
-  
-  
-
-
 C. Loading and Running the Peptide Sample
-
-
 
 1. Remove the glass plates and gel from the casting stand and frame, wiping off excess gel on the outside of the glass plates.
 
@@ -154,13 +130,7 @@ C. Loading and Running the Peptide Sample
 
 10. 1. Tip: The bromophenol blue dye in the sample buffer runs around 3-5 kDa and can be used as an indicator of when to stop running the gel
 
-  
-  
-
-
 D. Staining the gel
-
-
 
 1. Remove the electrode assembly from the electrophoresis tank and discard the running buffer
 
@@ -172,8 +142,6 @@ D. Staining the gel
 5. 1. Tip: Use the wedge tool provided with the casting kit to slowly pry off the small plate and lift one corner of the gel from the plate. Float the gel of the plate by inverting them under water and swirling gently until the gel separates from the glass
 6. Rinse the gel with water to remove residual SDS. Rinse until bromophenol blue begins to fade slightly, but do not over-rinse or peptide could be lost
 
-
-
 Staining with SYPRO Ruby:
 
 1. Use a volume of Ruby stain that is 10 times the total volume of the gel\(s\)
@@ -184,21 +152,15 @@ Staining with SYPRO Ruby:
 
 4. 1. Tip: gels cannot be overstained with Ruby; stain overnight for the best results
 
-
-
 Staining with Coomassie:
 
-     5. Pour enough stain into a staining dish to cover the gel\(s\)
+1. Pour enough stain into a staining dish to cover the gel\(s\)
 
-     6. Place container on shaker or rocker at low speed for 30-60 minutes depending on how
+2. Place container on shaker or rocker at low speed for 30-60 minutes depending on how
 
-         concentrated the peptides are; stop staining when bands are bright blue
-
-
+   concentrated the peptides are; stop staining when bands are bright blue
 
 E. Destaining the gel
-
-
 
 Destaining SYPRO Ruby Gels
 
@@ -210,21 +172,13 @@ Destaining SYPRO Ruby Gels
 
 4. Gels can be placed directly on transilluminator for observation
 
-
-
 Destaining Coomassie Gels:
 
 1. Put gels in ddH2O and swirl several times; place on shaker or rocker at low speed for 5 minutes
 
 2. Change water and swirl several more times; place on shaker or rocker at low speed for 30 minutes
 
-  
-  
-
-
 F. Other Helpful Tips
-
-
 
 * Liquid acrylamide is toxic, but once polymerized it’s harmless and can be thrown away in the trash
 
