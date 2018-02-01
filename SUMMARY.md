@@ -66,7 +66,7 @@
 * [Microbiology 101](06_Microbiology/README.md)
   * [Best practices](best_practices.md)
   * [Autoclaving](autoclaving.md)
-  * [Bacteria Storage](08_Build/bacteria_storage.md)
+  * [Bacteria storage](08_Build/bacteria_storage.md)
   * [Bacteriophages](06_Microbiology/phages.md)
 
 ## Design
