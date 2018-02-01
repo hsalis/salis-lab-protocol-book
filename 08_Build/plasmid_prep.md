@@ -1,4 +1,4 @@
-# Plasmid Preparation
+# Plasmid extraction 
 
 A plasmid preparation is a method of DNA extraction and purification for plasmid DNA. Many methods have been developed to purify plasmid DNA from bacteria. These methods invariably involve three steps:
 
