@@ -110,6 +110,7 @@
 * [Plasmid extraction](08_Build/plasmid_prep.md)
 * [RNA](08_Build/rna.md)
   * [T7 HiScribe Kit RNA Synthesis](08_Build/t7_hiscribe.md)
+  * [T7 RNAP reaction clean-up protocol](08_Build/t7-rnap-reaction-clean-up-protocol.md)
   * [RNA extraction](08_Build/rna_extract.md)
   * [Phenol:chloroform](08_Build/phenol_chloroform.md)
   * [Norgen kit](08_Build/norgen_kit.md)
