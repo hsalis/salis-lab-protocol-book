@@ -5,8 +5,7 @@
 
 ## Getting Started
 
-* [Computational Work](compwork.md)
-* [Experimental Work](expwork.md)
+* [So you want to be a synthetic biologist?](expwork.md)
 
 ## Computational Workflow
 
