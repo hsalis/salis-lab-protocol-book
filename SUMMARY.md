@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-* [Engineering biology](expwork.md)
+* [Contents](expwork.md)
 
 ## Computational Workflow
 
@@ -22,7 +22,7 @@
   * [spartacus HPC](02_Server_Computing/spartacus.md)
   * [Amazon Web Services](02_Server_Computing/aws.md)
 * [Dev](03_Dev/README.md)
-  * [Best practices](03_Dev/practices.md)
+  * [How to be a Pythonista](03_Dev/practices.md)
   * [Developing python packages](03_Dev/python_modules.md)
   * [Setting up a repo](03_Dev/repo.md)
 
