@@ -1,6 +1,6 @@
 # Git
 
-## What is Git?
+### What is Git?
 
 "By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained `open-source` project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open-source."
 
