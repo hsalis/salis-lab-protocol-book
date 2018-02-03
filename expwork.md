@@ -13,5 +13,13 @@ The second half teaches the molecular biology techniques and protocols required 
 3. **Build**. Techniques and experimental protocols.
 4. **Test**. Methods to test your system's function.
 
-Our philosophy in this book is to be to the point and succinct, with references to other great online resources when needed.
+Our philosophy in this book is to be to the point and succinct, with references to other great online resources when needed. This git-protocol-book is by no means comprehensive, but merely an introduction to key workflows to get you started, and a repository for experimental methods that have been developed in the Salis lab. When in doubt, google something if you have a question - the internet of knowledge is a powerful tool in a scientist's toolbox in the modern day of technology, and if you can't find answers to your questions here or online, ask Dr. Salis and senior students for help.
+
+Best of luck in all your scientific pursuits,
+
+-Alex, Grace, Sean, Daniel, Ayaan
+
+
+
+
 
