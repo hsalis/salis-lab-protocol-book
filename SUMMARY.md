@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-* [How to synbio in 2 easy steps](expwork.md)
+* [Engineering biology](expwork.md)
 
 ## Computational Workflow
 
