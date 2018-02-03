@@ -1,5 +1,7 @@
 # Summary
 
+## Salis Lab Protocol Book
+
 * [Introduction](README.md)
 * [Contribuing Authors](authors.md)
 
@@ -20,9 +22,9 @@
   * [spartacus HPC](02_Server_Computing/spartacus.md)
   * [Amazon Web Services](02_Server_Computing/aws.md)
 * [Dev](03_Dev/README.md)
-  * [Setting up a repo](03_Dev/repo.md)
-  * [Developing python packages](03_Dev/python_modules.md)
   * [Best practices](03_Dev/practices.md)
+  * [Developing python packages](03_Dev/python_modules.md)
+  * [Setting up a repo](03_Dev/repo.md)
 
 ## Salis Lab Software
 
