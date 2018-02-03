@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-* [So you want to be a synthetic biologist?](expwork.md)
+* [How to synbio in 2 easy steps](expwork.md)
 
 ## Computational Workflow
 
