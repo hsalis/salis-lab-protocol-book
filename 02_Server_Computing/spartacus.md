@@ -1,4 +1,4 @@
-# High Performance Computing \(HPC\)
+# High performance computing \(HPC\)
 
 
 
