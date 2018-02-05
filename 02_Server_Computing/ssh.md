@@ -90,10 +90,16 @@ To transfer a file _to_ a directory on a remote server type the following:
 $ scp path/to/myfile.txt alex@188.85.194.223:~/destination/file/location
 ```
 
-To download a file _from _a remote server and rename it, type the following:
+To download a file \_from \_a remote server and rename it, type the following:
 
 ```
 $ scp alex@188.85.194.223:~/destination/file/location/myfile.txt path/to/myfile_from_server.txt
+```
+
+And if you have an alias for your server defined in `config`:
+
+```
+$ scp spartacus:~/path/to/file.txt path/to/my/file.txt
 ```
 
 Google around for more usage directions, but this is about it! Use the `-r` flag if you're trying to transfer a directory with contents in it.
