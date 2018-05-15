@@ -2,7 +2,7 @@
 
 `PROTOCOL DUMP PLEASE FORMAT`
 
-\*Reference:Bron, S. \(1990\) Plasmids. In Molecular Biological Methods forBacillus. Harwood, C.R., and Cutting, S.M. \(eds\). Chichester, UK: John Wiley & Sons, pp. 75–174.\`
+\*Reference: Bron, S. \(1990\) Plasmids. In Molecular Biological Methods forBacillus. Harwood, C.R., and Cutting, S.M. \(eds\). Chichester, UK: John Wiley & Sons, pp. 75–174.\`
 
 Solutions to prepare BEFORE the Day of Transformation
 
