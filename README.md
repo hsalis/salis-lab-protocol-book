@@ -4,7 +4,7 @@ This [Git Protocol Book](https://www.gitbook.com/) introduces skills in computat
 
 ### Under Construction
 
-This Gitbook is currently under heavy development. If you're reading this, that means many of the linked pages are still empty, and we are still adding new pages and protocols. Check back later.
+There are many pages of this protocol book that need protocols filled in or heavy formatting. There are two very _easy _ways of editing this Git Protocol Book. The easiest way is to use the [GitBook Editor](https://legacy.gitbook.com/editor). Another way is to directly commit changes to the GitHub repository where the protocols are hosted: [https://github.com/reisalex/salis-lab-protocol-book](https://github.com/reisalex/salis-lab-protocol-book). With this approach, when you add pages this way, make sure to update [SUMMARY.md](/SUMMARY.md). You'll need to request editing access from me: alex.reis at psu.
 
 -Alex
 
