@@ -90,6 +90,7 @@
   * [PCR cleanup](08_Build/pcr_cleanup.md)
   * [PCR Assembly](08_Build/pcr_assembly.md)
   * [Gel extraction](08_Build/gel_extraction.md)
+  * [Genomic Library Prep](08_Build/genomic-library-prep.md)
 * [Restriction Cloning](08_Build/README.md)
   * [Restriction enzyme digestion](08_Build/digestion.md)
   * [Ligation with T4 DNA Ligase](08_Build/ligation.md)
