@@ -134,6 +134,7 @@
   * [Gel electrophoresis](09_Test/gel_electro.md)
   * [MinION](09_Test/minion.md)
   * [RT-qPCR](09_Test/rt_pcr.md)
+  * [SYBR Green Real-Time PCR](09_Test/sybr-green-real-time-pcr.md)
   * [Gram's iodine stain](09_Test/gram_iodine.md)
   * [LC-MS](09_Test/lcms.md)
 
