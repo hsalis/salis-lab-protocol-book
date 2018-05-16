@@ -4,7 +4,7 @@ This [Git Protocol Book](https://www.gitbook.com/) introduces skills in computat
 
 ### Under Construction
 
-There are many pages of this protocol book that need protocols filled in or heavy formatting. There are two very _easy_ ways of editing this Git Protocol Book. The easiest way is to use the [GitBook Editor](https://legacy.gitbook.com/editor). Another way is to directly commit changes to the GitHub repository where the protocols are hosted: [https://github.com/reisalex/salis-lab-protocol-book](https://github.com/reisalex/salis-lab-protocol-book). With this approach, when you add pages this way, make sure to update [SUMMARY.md](/SUMMARY.md). You'll need to request editing access from me: alex.reis at psu.
+There are many pages of this protocol book that need protocols filled in or heavy formatting. There are two very _easy_ ways of editing this Git Protocol Book. The easiest way is to install and use the [GitBook Editor](https://legacy.gitbook.com/editor) desktop program. Another way is to directly commit changes to the GitHub repository where the protocols are hosted: [https://github.com/reisalex/salis-lab-protocol-book](https://github.com/reisalex/salis-lab-protocol-book). With the later approach, make sure to update [SUMMARY.md](/SUMMARY.md) when you add pages. You'll need to request editing access from me for both methods.
 
 -Alex
 
