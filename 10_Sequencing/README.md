@@ -1,4 +1,0 @@
-# Sequencing your DNA
-
-
-

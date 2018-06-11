@@ -1,4 +1,0 @@
-# Cloning stragies
-
-
-
