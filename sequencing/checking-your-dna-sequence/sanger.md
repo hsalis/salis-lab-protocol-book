@@ -38,8 +38,8 @@ PCR 400 – 1000 bases 40 ng/μL
 
 1. Login to [Quintarabio](http://www.quintarabio.com/login?came_from=%2Fuser%2Fmyqb). User email:[salis@psu.edu](mailto:salis@psu.edu), password: synbio1980
 2. Under Online Order Quick Select, click on Online Form. And fill out the form with your sequencing samples names, etc. Submit and print form.
-3. Get a PCR strip. Send 500-800 ng of your DNA sample in the tube corresponding to LABEL in the Online Form. Label your tubes with a sharpie.You can premix and add the sequencing primer \(10 uM\) directly to the same tube by adding 2 uL --- IF YOU PREMIX: send 10 uL of your template plasmid.If youdon’tpremix, add 5 uL \(10 uM\) sequencing primer to another tube onanotherPCR strip \(i.e. samples in 1 PCR strip, sequencing primers in another PCR strip\).
+3. Get a PCR strip. Send 500-800 ng of your DNA sample in the tube corresponding to LABEL in the Online Form. Label your tubes with a sharpie. You can premix the DNA and the sequencing primer by adding 5 uL \(5 uM\) sequencing primer to 10 uL of your DNA sample. If you don’t premix, add 10 uL \(5 uM\) or 5 uL \(10 uM\) sequencing primer to an eppendorf tube and 10 uL of each DNA sample separately in a PCR strip.
 4. Get a senior student to show you how to mail samples. Mail before noon.
 
-See [http://quintarabio.com/service/dna\_sequencing\#2](http://quintarabio.com/service/dna_sequencing#2)for more info on Quintara DNA sequencing FAQ
+See [http://quintarabio.com/service/dna\_sequencing\#2](http://quintarabio.com/service/dna_sequencing#2) for more info on Quintara DNA sequencing FAQ
 
