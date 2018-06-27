@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Salis Lab Protocol Book](README.md)
 
-## Salis Lab Protocol Book
+## Introduction
 
 * [Introduction](salis-lab-protocol-book/introduction.md)
 * [Contribuing Authors](salis-lab-protocol-book/contribuing-authors.md)
