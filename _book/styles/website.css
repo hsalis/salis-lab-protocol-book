@@ -1,0 +1,12 @@
+.book-summary ul.summary li.header {
+    padding: 10px 15px;
+    /* padding-top: 20px; */
+    text-transform: uppercase;
+    //color: #af176c;
+    background-color: #ECECEC;
+    font-weight: bold;
+}
+
+body {
+    text-align: justify;
+}
