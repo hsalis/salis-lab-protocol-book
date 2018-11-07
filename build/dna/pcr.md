@@ -52,7 +52,7 @@ Refer to [NEB's DNA Polymerase Selection Chart](https://www.neb.com/tools-and-re
 Combine the following reagents together in a PCR tube. Add ddH2O first and Q5 DNA polymerase last. Transfer to the thermocycler and run the protocol as describe below.
 
 | COMPONENT | 25 µL REACTION | 50 µL REACTION | FINAL CONCENTRATION |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | 5X Q5 Reaction Buffer | 5 µL | 10 µL | 1X |
 | 10 mM dNTPs | 0.5 µL | 1 µL | 200 uM |
 | 10 uM Forward Primer | 1.25 µL | 2.5 µL | 0.5 uM |
@@ -63,7 +63,7 @@ Combine the following reagents together in a PCR tube. Add ddH2O first and Q5 DN
 | ddH2O | to 25 µL | to 50 µL |  |
 
 | STEP | TEMPERATURE \(°C\) | TIME \(s\) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Initial Denaturation | 98°C | 30 sec |
 | \(1\) Denature | 98°C | 5-10 sec |
 | \(2\) Anneal | 50-72°C \(Tm+3\) | 10-30 sec |
@@ -85,7 +85,7 @@ A cheaper thermo-stable polymerase relative to Q5 and Phusion. Used for small am
 Combine the following reagents together in a PCR tube. Add ddH2O first and Q5 DNA polymerase last. Transfer to the thermocycler and run the protocol as describe below.
 
 | COMPONENT | 25 µL REACTION | 50 µL REACTION | FINAL CONCENTRATION |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | 10X ThermoPol Reaction Buffer | 2.5 µL | 5 µL | 1X |
 | 10 mM dNTPs | 0.5 µL | 1 µL | 200 uM |
 | 10 uM Forward Primer | 0.5 µL | 1 µL | 0.2 uM |
@@ -95,7 +95,7 @@ Combine the following reagents together in a PCR tube. Add ddH2O first and Q5 DN
 | ddH2O | to 25 µL | to 50 µL |  |
 
 | STEP | TEMPERATURE \(°C\) | TIME \(s\) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Initial Denaturation | 95°C | 30 sec |
 | \(1\) Denature | 95°C | 15-30 sec |
 | \(2\) Anneal | 45-68°C \(Tm+3\) | 15-60 sec |
@@ -120,7 +120,7 @@ NEB has a decent [PCR Troubleshooting Guide](https://www.neb.com/tools-and-resou
 _Taq_ DNA polymerase, in addition to polymerizing the reverse complement of a given template strand, also adds an additional adenosine residue to the 3'-end of the newly-synthesized strand. This is useful for [T/A cloning](pcr.md). First, amplify your target DNA with a [high-fidelty DNA polymerase](pcr.md#-Q5-DNA-polymerase), then A-tail with _Taq_, which is lower-fidelty. After performcing a PCR cleanup on the amplicon, combine the following:
 
 | COMPONENT | Volume \(µL\) |
-| --- | --- |
+| :--- | :--- |
 | DNA \(PCR cleanup product\) | x µL |
 | ThermoPol Buffer | 5 µL |
 | \*dATP \(10 mM\) | 1 µL |

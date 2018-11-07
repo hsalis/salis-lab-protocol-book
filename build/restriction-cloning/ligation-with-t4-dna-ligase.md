@@ -7,7 +7,7 @@ DNA ligation is the process of joining together two DNA molecule ends \(either f
 * Vector DNA: the fragment of DNA that is used as a vehicle to artificially carry foreign DNA into another cell, where it can be replicated and/or expressed. For nearly all applications in this lab, your vector is a plasmid, which is a small DNA molecule \(circular\) that bacteria can take up from their surrounding environment \([transformation](../transformation-and-integration/)\), replicate and express genes from independently from their chromosome \(i.e. genome\). Plasmid vectors have, at a minimum, a origin of replication \(ORI\), which is a region of DNA that governs that plasmid's copy number, or the number of copies the cell will express it at. We use a number of different vectors in our lab. See the table below for some examples.
 
 | Vector Name | ORI | Copy Number |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | pUC | pMB1 \(derivative\) | ~500-700 |
 | pColE1 | ColE1 | ~15-20 |
 | pACYC | p15A | ~10-12 |
@@ -24,7 +24,7 @@ For most applications, we use NEB provided T4 DNA Ligase \(M0202\).
 1. Set up the following reaction in a PCR tube \(enzymatic reactions tube\) on a rack. Note: _T4 DNA Ligase should be added last_. For all enzymatic reactions, a good strategy is to add inerts first, then valuable components, and then add the enzyme last to "begin" the reaction. This means add components in the following order: water, buffer, DNA parts, T4 DNA Ligase.
 
 | COMPONENT | 20 µL REACTION |
-| --- | --- |
+| :--- | :--- |
 | T4 DNA Ligase Buffer \(10X\)\* | 2 µL |
 | Vector DNA \(4 kb\) | 50 ng \(0.020 pmol\) |
 | Insert DNA \(1 kb\) | 37.5 ng \(0.060 pmol\) |

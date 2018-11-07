@@ -15,7 +15,7 @@ Restriction enzymes are one of the oldest tools in the molecular cloning toolbox
 A double digest is a digestion reaction that uses two restriction enzymes. In most scenarios, you will do digestions with two restriction enzymes to create unique cut sites that can be used to ligate fragments together in a orientation specific way. Using the proper amounts of DNA, enzyme and buffer components in the correction reaction volume will allow you to achieve optimal digestion. By definition, 1 unit of restriction enzyme will completely digest 1 µg of substrate DNA in a 50 µL reaction in 60 minutes.
 
 | COMPONENT | 10 µL REACTION | 50 µL REACTION |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | DNA | 0.1 µg | 1 µg |
 | 10X NEBuffer\* | 1 µL | 5 µL \(1X\) |
 | Restriction enzymes | 1 unit \(0.2 µL\) | 10 units \(1 µL\) |
@@ -24,7 +24,7 @@ A double digest is a digestion reaction that uses two restriction enzymes. In mo
 \*Check the enzyme-buffer compatability of the enzymes you wish to use. Use the appropratei buffer. Most enzymes in our lab will work best in NEB CutSmart buffer.
 
 | STEP | TEMPERATURE \(°C\) | TIME \(hr\) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Incubate | 37°C \(most restriction enzymes\) | 1 hour |
 
 ## Best Practices & Tips

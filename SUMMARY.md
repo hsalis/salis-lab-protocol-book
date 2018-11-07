@@ -4,8 +4,8 @@
 
 ## Introduction
 
-* [Introduction](salis-lab-protocol-book/introduction.md)
-* [Contribuing Authors](salis-lab-protocol-book/contribuing-authors.md)
+* [Introduction](introduction/introduction.md)
+* [Contribuing Authors](introduction/contribuing-authors.md)
 
 ## Getting Started
 

@@ -30,7 +30,7 @@ This protocol has been adapted from the Karmella Haynes/Cameron Gardner \(2015\)
 4. Mix the appropriate amount of dsDNA fragments together and treat with polynucleotide kinase \(PNK\) to add 5'-phosphates \(see below\). If one or more of your fragments were derived from template plasmids, add 1 uL FastDigest DpnI. DpnI will cut the methylated DNA that came from a bacterial cell \(plasmid template\) and will not cut any synthetic PCR products. We found this was extremely critical to reduce background when we screened colonies following LCR.
 
 | COMPONENT | 10 µL REACTION |
-| --- | --- |
+| :--- | :--- |
 | PCR product or dsDNA \(2 µL/part\) | up to 8.5 µL |
 | 10x T4 DNA Ligase Buffer \(NEB\) | 1.0 µL |
 | T4 PNK \(NEB\) | 0.5 µL |
@@ -41,7 +41,7 @@ This protocol has been adapted from the Karmella Haynes/Cameron Gardner \(2015\)
 * Heat-in
 
 | STEP | TEMPERATURE \(°C\) | TIME |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Incubate | 37°C | 30 min\* |
 | Heat-inactivate PNK | 65°C | 20 min |
 
@@ -52,7 +52,7 @@ This protocol has been adapted from the Karmella Haynes/Cameron Gardner \(2015\)
 Add components to the PNK DNA reaction as described in the table below, transfer to the thermal cycler and run the protocol below. Follow LCR with a [PCR Clean-Up](../dna/pcr-cleanup.md), elute with 5 µL, and transform into a cloning strain \(DH10B\).
 
 | COMPONENT | 30 µL REACTION | CONCENTRATION |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | PNK DNA reaction | 10 µL | 3 nM each fragment |
 | Briding Oligo | 3 µL \(each\) | 30 nM each |
 | 10X Ampligase or _Taq_ ligase buffer | 3.0 µL |  |
@@ -60,7 +60,7 @@ Add components to the PNK DNA reaction as described in the table below, transfer
 | ddH2O | to 30 µL |  |
 
 | STEP | TEMPERATURE \(°C\) | TIME |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Initial Denature | 94°C | 2 min |
 | 1. Denature | 94°C | 10 sec |
 | 2. Anneal | Tm - 10°C | 30 sec |

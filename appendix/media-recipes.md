@@ -76,7 +76,7 @@ Instructions for prep are written on top of TAE carboy. Empty carboy. To 300 mL 
 ## M9 Minimal Media \(MM\) with 0.4% w/v Glucose
 
 | Reagent | Stock Concentration | Add \(1 L\) | Add \(500 mL\) |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | ddH2O | - | 700 | 350 |
 | M9 salts solution | 5x autoclaved | 200 | 100 |
 | Glucose | 20% sterilized | 20 | 10 |

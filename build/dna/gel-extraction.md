@@ -7,7 +7,7 @@ When you have a heterogenous sample of DNA fragments of different lengths, you w
 In advance, weigh microcentrifuge tubes on the scale for as many DNA fragments you need to extract. This will be used to determine the weight of your extracted gel fragments, and the amount of dissolving buffer you will need to add. Turn on and set the heat block to 55°C, and add water to as many wells as you have tubes.
 
 1. Make a 1% agarose gel using TAE. See `TAE Gel` under [Media Recipes](../../appendix/media-recipes.md).
-2. Add 5-10 µL of the appropriate ladder and DNA pre-mixed with loading dye (5 part DNA sample, 1 part loading dye) to the extra-wide wells in the agarose gel.
+2. Add 5-10 µL of the appropriate ladder and DNA pre-mixed with loading dye \(5 part DNA sample, 1 part loading dye\) to the extra-wide wells in the agarose gel.
 3. Run large gels between 90-120 V, and small gels between 60-90 V \(running gels at too high of a current will cause the gel to melt/denature\).
 4. Verify that the gel holder is positioned with wells at negative terminus \(black\).
 5. Verify hydrogen bubble production at negative terminus.

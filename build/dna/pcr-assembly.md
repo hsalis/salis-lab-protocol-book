@@ -43,7 +43,7 @@ If you want to run `Primerize` jobs in bulk, you can use [PCR\_Assembly.py](http
 Combine the following reagents together in a PCR tube. Add ddH2O first and Taq DNA polymerase last. Transfer to the thermocycler and run the protocol as describe below.
 
 | COMPONENT | 50 µL REACTION |
-| --- | --- |
+| :--- | :--- |
 | ThermoPol Buffer \(10X\)\* | 5 µL |
 | 10 mM dNTPs | 1 µL |
 | 100 uM oligo | 5 µL/each |
@@ -51,7 +51,7 @@ Combine the following reagents together in a PCR tube. Add ddH2O first and Taq D
 | ddH2O | to 50 µL |
 
 | STEP | TEMPERATURE \(°C\) | TIME \(s\) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Initial Denaturation | 95°C | 30 sec |
 | \(1\) Denature | 95°C | 15-30 sec |
 | \(2\) Anneal | 45-68°C \(Tm-5\) | 15-60 sec |

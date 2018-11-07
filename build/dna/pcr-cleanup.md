@@ -5,7 +5,7 @@ This protocol uses Zymo-Spin I Columns \(product number: C1003-250\) to recover 
 ## Typical Applications
 
 | Application | Description |
-| --- | --- |
+| :--- | :--- |
 | Post-PCR DNA Clean-up | Efficient desalting of DNA with the removal of DNA polymerases, primers and free dNTPs. |
 | DNA Clean-up From Enzymatic Reactions | Efficient desalting of DNA with the removal of modifying enzymes, RNA polymerases, ligases, kinases, nucleases, phosphatases, endonucleases, etc. |
 | Post-Reverse Transcription \(RT\) & cDNA Clean-up | Efficiently purifies DNA following RT, either as a DNA/RNA complex or as single stranded cDNA following chemical hydrolysis of the RNA template. |
@@ -22,7 +22,7 @@ _All centrifugation steps should be performed between 10,000 - 16,000 x g. We ru
 1. In a 1.5 mL microcentrifuge tube, add 2-7 volumes of **DNA Binding Buffer** to each volume of DNA sample \(see table below\). Mix briefly by vortexing.
 
 | **Application** | **DNA Binding Buffer : Sample** | **Example** |
-| --- | :---: | :---: |
+| :--- | :--- | :--- |
 | Plasmid, genomic DNA \(&gt;2 kb\) | 2 : 1 | 200 uL : 100 uL |
 | PCR product, DNA fragment | 5 : 1 | 500 uL : 100 uL |
 | ssDNA \(e.g. cDNA, M13 phage\) | 7 : 1 | 700 uL : 100 uL |
