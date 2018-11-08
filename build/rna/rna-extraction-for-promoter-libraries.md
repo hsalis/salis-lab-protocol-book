@@ -77,10 +77,8 @@
 19. **Place the RNeasy MinElute spin column in a new 1.5 ml collection tube.**
 20. **Add 14 uL of RNase-free water to the center of the spin-column membrane**
 21. **Close the lid, and then centrifuge at maximum speed for 1 minute.**
-22. **Expect to recover ~12 µl RNA.**
-
-**22. Take 2 uL aliquot to determine the concentration and use with analytical gel.**  
-
+    1. **Expect to recover ~12 µl RNA.**
+22. **Take 2 uL aliquot to determine the concentration and use with analytical gel.** 
 
 ## **rRNA Depletion**
 
