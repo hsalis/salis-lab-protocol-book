@@ -114,6 +114,7 @@
 * [Plasmid extraction](build/plasmid-extraction.md)
 * [RNA](build/rna/README.md)
   * [T7 HiScribe Kit RNA Synthesis](build/rna/t7-hiscribe-kit-rna-synthesis.md)
+  * [RNA Extraction for Promoter Libraries](build/rna/rna-extraction-for-promoter-libraries.md)
   * [T7 RNAP reaction clean-up protocol](build/rna/t7-rnap-reaction-clean-up-protocol.md)
   * [RNA extraction](build/rna/rna-extraction.md)
   * [Phenol:chloroform](build/rna/phenol-chloroform.md)
