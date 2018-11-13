@@ -1,4 +1,4 @@
-# RNA Extraction for Promoter Libraries
+# Targeted RNA-seq
 
 ## **RNA Extraction**
 
