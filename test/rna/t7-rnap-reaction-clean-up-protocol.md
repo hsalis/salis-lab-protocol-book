@@ -1,4 +1,4 @@
-# T7 RNAP reaction clean-up protocol
+# T7 RNAP Reaction Clean-Up
 
 `PROTOCOL DUMP PLEASE FORMAT`
 

@@ -72,16 +72,7 @@
   * [Bacteria storage](molecular-biology/microbiology-101/bacteria-storage.md)
   * [Bacteriophages](molecular-biology/microbiology-101/bacteriophages.md)
 
-## Design
-
-* [Engineer your genetic system](design/engineer-your-genetic-system/README.md)
-  * [Enzymatic assays](design/engineer-your-genetic-system/enzymatic-assays.md)
-  * [Cell-free expression](design/engineer-your-genetic-system/cell-free-expression.md)
-  * [Bacteria](design/engineer-your-genetic-system/bacteria.md)
-  * [Large DNA assemblies](design/engineer-your-genetic-system/large-dna-assemblies.md)
-  * [Cloning strategies](design/engineer-your-genetic-system/cloning-strategies.md)
-
-## Build
+## Design & Build
 
 * [Plan and execute your DOE](build/plan-and-execute-your-doe.md)
 * [DNA](build/dna/README.md)
@@ -92,6 +83,7 @@
   * [PCR cleanup](build/dna/pcr-cleanup.md)
   * [PCR Assembly](build/dna/pcr-assembly.md)
   * [Gel extraction](build/dna/gel-extraction.md)
+  * [Plasmid extraction](build/dna/plasmid-extraction.md)
   * [Genomic Library Prep](build/dna/genomic-library-prep.md)
 * [Restriction Cloning](build/restriction-cloning/README.md)
   * [Restriction enzyme digestion](build/restriction-cloning/restriction-enzyme-digestion.md)
@@ -106,20 +98,10 @@
   * [MAGE](build/genome-editing/mage.md)
   * [pORTMAGE](build/genome-editing/portmage.md)
   * [CRISPR/Cas9](build/genome-editing/crispr-cas9.md)
-* [Verification](build/verification.md)
 * [Transformation and Integration](build/transformation-and-integration/README.md)
   * [E. coli Electroporation](build/transformation-and-integration/e.-coli-electroporation.md)
   * [E. coli Heat Shock](build/transformation-and-integration/e.-coli-heat-shock.md)
   * [B. subtilis](build/transformation-and-integration/b.-subtilis.md)
-* [Plasmid extraction](build/plasmid-extraction.md)
-* [RNA](build/rna/README.md)
-  * [T7 HiScribe Kit RNA Synthesis](build/rna/t7-hiscribe-kit-rna-synthesis.md)
-  * [T7 RNAP reaction clean-up protocol](build/rna/t7-rnap-reaction-clean-up-protocol.md)
-  * [RNA extraction](build/rna/rna-extraction.md)
-  * [Phenol:chloroform](build/rna/phenol-chloroform.md)
-  * [Norgen kit](build/rna/norgen-kit.md)
-* [TX-TL Crude Cell Extract Prep](build/tx-tl-crude-cell-extract-prep.md)
-* [SDS-PAGE](build/sds-page.md)
 
 ## Test
 
@@ -130,13 +112,19 @@
   * [LacZ \(beta-gal\)](test/characterize-your-system/lacz-beta-gal.md)
   * [Microplate fluoresence](test/characterize-your-system/microplate-fluoresence.md)
   * [Neurosporene](test/characterize-your-system/neurosporene.md)
+  * [SDS-PAGE](test/characterize-your-system/sds-page.md)
+  * [TX-TL Crude Cell Extract Prep](test/characterize-your-system/tx-tl-crude-cell-extract-prep.md)
   * [Transcription-Translation \(TX-TL\)](test/characterize-your-system/transcription-translation-tx-tl.md)
 * [RNA](test/rna/README.md)
+  * [Spin Column-Based Extraction](test/rna/rna-extraction.md)
+  * [Phenol-Chloroform Extraction](test/rna/phenol-chloroform.md)
   * [Reverse Transcriptase \(RT\)](test/rna/reverse-transcriptase-rt.md)
   * [qPCR with TaqMan](test/rna/rt-qpcr.md)
   * [qPCR with SYBR Green](test/rna/sybr-green-real-time-pcr.md)
   * [Targeted RNA-seq](test/rna/rna-extraction-for-promoter-libraries.md)
   * [Transcriptome RNA-seq](test/rna/transcriptome-rna-seq.md)
+  * [T7 HiScribe Kit RNA Synthesis](test/rna/t7-hiscribe-kit-rna-synthesis.md)
+  * [T7 RNAP Reaction Clean-Up](test/rna/t7-rnap-reaction-clean-up-protocol.md)
 * [Metabolite](test/metabolite/README.md)
   * [HPLC](test/metabolite/hplc.md)
   * [LC-MS](test/metabolite/lc-ms.md)

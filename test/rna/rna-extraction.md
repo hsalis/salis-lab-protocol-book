@@ -1,4 +1,4 @@
-# RNA extraction
+# Spin Column-Based Extraction
 
 `PROTOCOL DUMP PLEASE FORMAT`
 

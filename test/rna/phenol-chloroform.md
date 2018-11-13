@@ -1,4 +1,4 @@
-# Phenol:chloroform
+# Phenol-Chloroform Extraction
 
 `PROTOCOL DUMP PLEASE FORMAT`
 

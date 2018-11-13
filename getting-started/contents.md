@@ -9,7 +9,7 @@ This is a two-part protocol-book. The first teaches fundamental computational sk
 The second half teaches the molecular biology techniques and protocols required to build your designed genetic system. Chapters include:
 
 1. **Microbiology 101**. Basic techniques including, but not limited to, [sterile technique](../molecular-biology/microbiology-101/best-practices.md), [how to autoclave media and glassware](../molecular-biology/microbiology-101/autoclaving.md), [how to store your bacteria](../molecular-biology/microbiology-101/bacteria-storage.md), and [how to deal with a phage outbreak](../molecular-biology/microbiology-101/bacteriophages.md) in the unfortunate event that one occurs.
-2. **Design**. Describes how to engineer your specific genetic system and [how to select the cloning strategy](../design/engineer-your-genetic-system/cloning-strategies.md) that best suits your project's needs.
+2. **Design**. Describes how to engineer your specific genetic system and [how to select the cloning strategy]() that best suits your project's needs.
 3. **Build**. Techniques and experimental protocols.
 4. **Test**. Methods to test your system's function.
 

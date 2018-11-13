@@ -1,4 +1,0 @@
-# Large DNA assemblies
-
-
-

@@ -22,7 +22,7 @@ All of the E.Z.N.A. Plasmid DNA Mini Kit I and Plasmid DNA Mini Kit II component
 
 ## Vacuum Protocol
 
-[![](../.gitbook/assets/miniprep.png)](https://github.com/)
+[![](../../.gitbook/assets/miniprep.png)](https://github.com/)
 
 All centrifugation should be performed at room temperature unless otherwise noted. For low copy number plasmids refer to Page 21. This protocol is designed to isolate plasmid DNA from E. coli grown in an overnight 1-5 mL LB culture. See Page 7 for guidelines on preparing the vacuum manifold used in this protocol.
 
