@@ -1,4 +1,4 @@
-# SYBR Green Real-Time PCR
+# qPCR with SYBR Green
 
 ## SYBR Green Real-Time PCR
 

@@ -1,6 +1,6 @@
 # Gel extraction
 
-When you have a heterogenous sample of DNA fragments of different lengths, you will do a gel extraction to separate the DNA pieces and purify the fragment\(s\) of interest. Follow [gel electrophoresis](../../test/characterize-your-system/gel-electrophoresis.md) guides when doing a gel extraction.
+When you have a heterogenous sample of DNA fragments of different lengths, you will do a gel extraction to separate the DNA pieces and purify the fragment\(s\) of interest. Follow [gel electrophoresis](../../test/other/gel-electrophoresis.md) guides when doing a gel extraction.
 
 ## Protocol
 

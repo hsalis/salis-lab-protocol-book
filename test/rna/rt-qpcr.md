@@ -1,46 +1,13 @@
-# RT-qPCR
-
-`PROTOCOL DUMP PLEASE FORMAT`
-
-Important Principles to Remember
-
-1. Perform the reaction setup in a clean hood that was not used for the RNA extraction.
-2. Use RNAse free pipettes, tips, etc for setting up the reaction.
-3. Maintain RNAse free environment using RNAse away and disposable sleeves and lab coat.
-
-Protocol
-
-1. Add 180 uL DEPC water to each sample to bring the concentration to 10 ng/uL Total RNA and 25 ng/uL Yeast tRNA.
-2. Prepare RT master mix on ice \(RT Kit: Applied Biosystems/ThermoFisher4368814\).
-
-|  | For 15 uL Sample | Total Volume for 18 Reactions | For 22.5 uL Sample | Total Volume for 17 Reactions |
-| :--- | :--- | :--- | :--- | :--- |
-| 10x RT Buffer | 3 uL | 54 uL | 4.5 uL | 76.5 uL |
-| 25x dNTP Mix | 1.2 uL | 21.6 uL | 1.8 uL | 30.6 uL |
-| 10x RT Random Primers | 3 uL | 54 uL | 4.5 uL | 76.5 uL |
-| Nuclease Free Water | 6.3 uL | 113.4 uL | 9.45 uL | 160.65 uL |
-| Multiscribe Reverse Transcriptase\* | 1.5 uL | 25.5 uL | 2.25 uL | 36 uL |
-
-\*Before adding remove 13.5 uL/20.25 uL for a control.
-
-1. Pipet 15 uL/22.5 uL of master-mix into each PCR tube for each reaction.
-2. Pipet 15 uL/22.5 uL of diluted RNA into each PCR tube.
-3. Spin down tubes.
-4. Put PCR tubes into Thermocycler and run the following procedure. Set thermocycler to respective reaction volumes.
-
-|  | Step 1 | Step 2 | Step 3 | Step 4 |
-| :--- | :--- | :--- | :--- | :--- |
-| Temperature \(C\) | 25 | 37 | 85 | 4 |
-| Time \(Minutes\) | 10 | 120 | 5 | Infinity |
+# qPCR with TaqMan
 
 ## qPCR Plate Setup
 
-Important Principles to Remember
+#### Important Principles to Remember
 
 1. Use 0.1 ml 96 well plates from the Gene Core Facility that are specific for the StepOne Machine\(PN \#4346906\).
 2. Since the the sample is now cDNA, RNAse Away no longer needs to be used.
 
-Master mix for qPCR reaction
+#### Master mix for qPCR reaction
 
 |  | Single Reaction | Three Replicates \(x 4\) | Master mix 1Iman’s GFP \(x18x4\) | Master mix 316s \(x16x4\) |
 | :--- | :--- | :--- | :--- | :--- |
