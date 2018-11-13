@@ -1,4 +1,4 @@
-# Gel electrophoresis
+# Gel Electrophoresis
 
 `PROTOCOL DUMP PLEASE FORMAT`
 

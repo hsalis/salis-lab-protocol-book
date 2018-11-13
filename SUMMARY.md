@@ -11,7 +11,7 @@
 
 * [Contents](getting-started/contents.md)
 
-## Computational Workflow
+## Modeling & Algorithms
 
 * [Linux](computational-workflow/linux/README.md)
   * [Install](computational-workflow/linux/install.md)
@@ -27,50 +27,49 @@
   * [How to be a Pythonista](computational-workflow/dev/how-to-be-a-pythonista.md)
   * [Developing python packages](computational-workflow/dev/developing-python-packages.md)
   * [Setting up a repo](computational-workflow/dev/setting-up-a-repo.md)
-
-## Salis Lab Software
-
-* [DNA Compiler](salis-lab-software/dna-compiler/README.md)
-  * [Getting started](salis-lab-software/dna-compiler/getting-started.md)
-  * [Dependencies](salis-lab-software/dna-compiler/dependencies.md)
-  * [RBS Calculator](salis-lab-software/dna-compiler/rbs-calculator.md)
-  * [RBS Library Calculator](salis-lab-software/dna-compiler/rbs-library-calculator.md)
-  * [Riboswitch Calculator](salis-lab-software/dna-compiler/riboswitch-calculator.md)
-  * [RNA Switch Calculator](salis-lab-software/dna-compiler/rna-switch-calculator.md)
-  * [Operon Calculator](salis-lab-software/dna-compiler/operon-calculator.md)
-  * [Pathway Map Calculator](salis-lab-software/dna-compiler/pathway-map-calculator.md)
-  * [Non-Repetitive Parts Calculator](salis-lab-software/dna-compiler/non-repetitive-parts-calculator.md)
-  * [PyVRNA](salis-lab-software/dna-compiler/pyvrna.md)
-  * [RNAdynamics](salis-lab-software/dna-compiler/rnadynamics.md)
-  * [Jupyter tutorials](salis-lab-software/dna-compiler/jupyter-tutorials.md)
-
-## Other Computational Tools
-
-* [Bioinformatics Tools](other-computational-tools/bioinformatics-tools/README.md)
-  * [BLAST](other-computational-tools/bioinformatics-tools/blast.md)
-  * [BWA-mem](other-computational-tools/bioinformatics-tools/bwa-mem.md)
-  * [kallisto](other-computational-tools/bioinformatics-tools/kallisto.md)
-  * [mfold](other-computational-tools/bioinformatics-tools/mfold.md)
-  * [OligoAnalyzer](other-computational-tools/bioinformatics-tools/oligoanalyzer.md)
-  * [OligoCalc](other-computational-tools/bioinformatics-tools/oligocalc.md)
-  * [ViennaRNA](other-computational-tools/bioinformatics-tools/viennarna.md)
-* [DNA Sequence Editors](other-computational-tools/dna-sequence-editors/README.md)
-  * [A Plasmid Editor](other-computational-tools/dna-sequence-editors/a-plasmid-editor.md)
-  * [Benchling](other-computational-tools/dna-sequence-editors/benchling.md)
-* [Online Resources](other-computational-tools/online-resources/README.md)
-  * [Addgene](other-computational-tools/online-resources/addgene.md)
-  * [CGSC](other-computational-tools/online-resources/cgsc.md)
-  * [EcoCyc](other-computational-tools/online-resources/ecocyc.md)
-  * [Genbank \(NCBI\)](other-computational-tools/online-resources/genbank-ncbi.md)
-  * [RegulonDB](other-computational-tools/online-resources/regulondb.md)
+* [DNA Compiler](computational-workflow/dna-compiler/README.md)
+  * [Getting started](computational-workflow/dna-compiler/getting-started.md)
+  * [Dependencies](computational-workflow/dna-compiler/dependencies.md)
+  * [RBS Calculator](computational-workflow/dna-compiler/rbs-calculator.md)
+  * [RBS Library Calculator](computational-workflow/dna-compiler/rbs-library-calculator.md)
+  * [Riboswitch Calculator](computational-workflow/dna-compiler/riboswitch-calculator.md)
+  * [RNA Switch Calculator](computational-workflow/dna-compiler/rna-switch-calculator.md)
+  * [Operon Calculator](computational-workflow/dna-compiler/operon-calculator.md)
+  * [Pathway Map Calculator](computational-workflow/dna-compiler/pathway-map-calculator.md)
+  * [Non-Repetitive Parts Calculator](computational-workflow/dna-compiler/non-repetitive-parts-calculator.md)
+  * [PyVRNA](computational-workflow/dna-compiler/pyvrna.md)
+  * [RNAdynamics](computational-workflow/dna-compiler/rnadynamics.md)
+  * [Jupyter tutorials](computational-workflow/dna-compiler/jupyter-tutorials.md)
+* [Bioinformatics Tools](computational-workflow/bioinformatics-tools/README.md)
+  * [BLAST](computational-workflow/bioinformatics-tools/blast.md)
+  * [BWA-mem](computational-workflow/bioinformatics-tools/bwa-mem.md)
+  * [kallisto](computational-workflow/bioinformatics-tools/kallisto.md)
+  * [mfold](computational-workflow/bioinformatics-tools/mfold.md)
+  * [OligoAnalyzer](computational-workflow/bioinformatics-tools/oligoanalyzer.md)
+  * [OligoCalc](computational-workflow/bioinformatics-tools/oligocalc.md)
+  * [ViennaRNA](computational-workflow/bioinformatics-tools/viennarna.md)
+* [DNA Sequence Editors](computational-workflow/dna-sequence-editors/README.md)
+  * [A Plasmid Editor](computational-workflow/dna-sequence-editors/a-plasmid-editor.md)
+  * [Benchling](computational-workflow/dna-sequence-editors/benchling.md)
+* [Online Resources](computational-workflow/online-resources/README.md)
+  * [Addgene](computational-workflow/online-resources/addgene.md)
+  * [CGSC](computational-workflow/online-resources/cgsc.md)
+  * [EcoCyc](computational-workflow/online-resources/ecocyc.md)
+  * [Genbank \(NCBI\)](computational-workflow/online-resources/genbank-ncbi.md)
+  * [RegulonDB](computational-workflow/online-resources/regulondb.md)
 
 ## Molecular Biology
 
 * [Microbiology 101](molecular-biology/microbiology-101/README.md)
-  * [Best practices](molecular-biology/microbiology-101/best-practices.md)
   * [Autoclaving](molecular-biology/microbiology-101/autoclaving.md)
+  * [Media Recipes](molecular-biology/microbiology-101/media-recipes.md)
   * [Bacteria storage](molecular-biology/microbiology-101/bacteria-storage.md)
   * [Bacteriophages](molecular-biology/microbiology-101/bacteriophages.md)
+* [Lab Equipment](molecular-biology/lab-equipment/README.md)
+  * [Genetic QPix2 Colony Picker](molecular-biology/lab-equipment/genetic-qpix2-colony-picker.md)
+  * [NanoDrop](molecular-biology/lab-equipment/nanodrop.md)
+  * [Thermal cyclers](molecular-biology/lab-equipment/thermal-cyclers.md)
+  * [Microplate incubator](molecular-biology/lab-equipment/microplate-incubator.md)
 
 ## Design & Build
 
@@ -105,12 +104,17 @@
 
 ## Test
 
+* [DNA](test/checking-your-dna-sequence/README.md)
+  * [Gel Electrophoresis](test/checking-your-dna-sequence/gel-electrophoresis.md)
+  * [Sanger Sequencing](test/checking-your-dna-sequence/sanger.md)
+  * [Illumina](test/checking-your-dna-sequence/illumina.md)
+  * [LCR-Seq](test/checking-your-dna-sequence/lcr-seq.md)
 * [Protein](test/characterize-your-system/README.md)
-  * [Flow cytometry](test/characterize-your-system/flow-cytometry.md)
+  * [Flow Cytometry](test/characterize-your-system/flow-cytometry.md)
   * [Fluorescence Activated Cell Sorting](test/characterize-your-system/facs.md)
-  * [Gram's iodine stain](test/characterize-your-system/grams-iodine-stain.md)
+  * [Gram's Iodine Stain](test/characterize-your-system/grams-iodine-stain.md)
   * [LacZ \(beta-gal\)](test/characterize-your-system/lacz-beta-gal.md)
-  * [Microplate fluoresence](test/characterize-your-system/microplate-fluoresence.md)
+  * [Microplate Fluoresence](test/characterize-your-system/microplate-fluoresence.md)
   * [Neurosporene](test/characterize-your-system/neurosporene.md)
   * [SDS-PAGE](test/characterize-your-system/sds-page.md)
   * [TX-TL Crude Cell Extract Prep](test/characterize-your-system/tx-tl-crude-cell-extract-prep.md)
@@ -129,24 +133,6 @@
   * [HPLC](test/metabolite/hplc.md)
   * [LC-MS](test/metabolite/lc-ms.md)
 * [Other](test/other/README.md)
-  * [Gel electrophoresis](test/other/gel-electrophoresis.md)
   * [TCSPC](test/other/tcspc.md)
   * [MinION](test/other/minion.md)
-
-## Sequencing
-
-* [Checking your DNA sequence](sequencing/checking-your-dna-sequence/README.md)
-  * [Sanger](sequencing/checking-your-dna-sequence/sanger.md)
-  * [Nanopore](sequencing/checking-your-dna-sequence/nanopore.md)
-  * [Illumina](sequencing/checking-your-dna-sequence/illumina.md)
-  * [LCR-seq](sequencing/checking-your-dna-sequence/lcr-seq.md)
-
-## Appendix
-
-* [Media Recipes](appendix/media-recipes.md)
-* [Lab Equipment](appendix/lab-equipment/README.md)
-  * [Genetic QPix2 Colony Picker](appendix/lab-equipment/genetic-qpix2-colony-picker.md)
-  * [NanoDrop](appendix/lab-equipment/nanodrop.md)
-  * [Thermal cyclers](appendix/lab-equipment/thermal-cyclers.md)
-  * [Microplate incubator](appendix/lab-equipment/microplate-incubator.md)
 

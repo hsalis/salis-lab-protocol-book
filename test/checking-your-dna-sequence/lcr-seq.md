@@ -1,4 +1,4 @@
-# LCR-seq
+# LCR-Seq
 
 `PROTOCOL DUMP PLEASE FORMAT`
 

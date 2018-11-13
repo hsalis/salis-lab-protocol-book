@@ -1,4 +1,4 @@
-# Gram's iodine stain
+# Gram's Iodine Stain
 
 
 

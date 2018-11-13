@@ -1,12 +1,12 @@
 # Gel extraction
 
-When you have a heterogenous sample of DNA fragments of different lengths, you will do a gel extraction to separate the DNA pieces and purify the fragment\(s\) of interest. Follow [gel electrophoresis](../../test/other/gel-electrophoresis.md) guides when doing a gel extraction.
+When you have a heterogenous sample of DNA fragments of different lengths, you will do a gel extraction to separate the DNA pieces and purify the fragment\(s\) of interest. Follow [gel electrophoresis](../../test/checking-your-dna-sequence/gel-electrophoresis.md) guides when doing a gel extraction.
 
 ## Protocol
 
 In advance, weigh microcentrifuge tubes on the scale for as many DNA fragments you need to extract. This will be used to determine the weight of your extracted gel fragments, and the amount of dissolving buffer you will need to add. Turn on and set the heat block to 55°C, and add water to as many wells as you have tubes.
 
-1. Make a 1% agarose gel using TAE. See `TAE Gel` under [Media Recipes](../../appendix/media-recipes.md).
+1. Make a 1% agarose gel using TAE. See `TAE Gel` under [Media Recipes](../../molecular-biology/microbiology-101/media-recipes.md).
 2. Add 5-10 µL of the appropriate ladder and DNA pre-mixed with loading dye \(5 part DNA sample, 1 part loading dye\) to the extra-wide wells in the agarose gel.
 3. Run large gels between 90-120 V, and small gels between 60-90 V \(running gels at too high of a current will cause the gel to melt/denature\).
 4. Verify that the gel holder is positioned with wells at negative terminus \(black\).
@@ -25,7 +25,7 @@ In advance, weigh microcentrifuge tubes on the scale for as many DNA fragments y
 17. Transfer column to a new microcentrifuge tube and add 10-15 µL ddH2O water directly to the column matrix.
 18. Incubate for 1 minute to maximize elution yield.
 19. Spin at max speed for 2 minutes to elute.
-20. Measure DNA concentration using the [NanoDrop](../../appendix/lab-equipment/nanodrop.md).
+20. Measure DNA concentration using the [NanoDrop](../../molecular-biology/lab-equipment/nanodrop.md).
 
 ## Tips and tricks
 

@@ -1,4 +1,4 @@
-# Microplate fluoresence
+# Microplate Fluoresence
 
 `PROTOCOL DUMP PLEASE FORMAT`
 

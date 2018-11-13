@@ -1,4 +1,0 @@
-# Checking your DNA sequence
-
-
-

@@ -1,4 +1,4 @@
-# Sanger
+# Sanger Sequencing
 
 `PROTOCOL DUMP PLEASE FORMAT`
 
