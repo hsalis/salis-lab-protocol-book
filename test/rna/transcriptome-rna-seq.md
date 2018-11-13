@@ -1,2 +1,2 @@
-# Transcriptome RNA-seq
+# Transcriptome RNA-Seq
 

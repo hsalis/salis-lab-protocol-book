@@ -1,4 +1,4 @@
-# Thermal cyclers
+# Thermal Cyclers
 
 
 

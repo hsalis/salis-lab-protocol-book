@@ -1,4 +1,4 @@
-# Targeted RNA-seq
+# Targeted RNA-Seq
 
 ## **RNA Extraction**
 

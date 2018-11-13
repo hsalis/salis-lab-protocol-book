@@ -1,6 +1,6 @@
 # Introduction
 
-This [Git Protocol Book](https://www.gitbook.com/) introduces skills in computational biology and experimental microbiology -- the skills required to be successful synthetic biologists. First, you'll be introduced to popular bioinformatics tools, our best practices for software development, and a how-to-guide for using the DNA Compiler \(DNAc\). With these tools, you'll be well equiped to _design_ and _study_ synthetic genetic systems. Secondly, you'll be introduced to conceptual workflows, basic lab techniques, and experimental protocols to _build_ and _test_ your designed genetic systems. Continue reading [here](../getting-started/contents.md) for more details on the contents of this protocol book and how to get started in the Salis lab.
+This [Git Protocol Book](https://www.gitbook.com/) introduces skills in computational biology and experimental microbiology -- the skills required to be successful synthetic biologists. First, you'll be introduced to popular bioinformatics tools, our best practices for software development, and a how-to-guide for using the DNA Compiler \(DNAc\). With these tools, you'll be well equiped to _design_ and _study_ synthetic genetic systems. Secondly, you'll be introduced to conceptual workflows, basic lab techniques, and experimental protocols to _build_ and _test_ your designed genetic systems. Continue reading [here](contents.md) for more details on the contents of this protocol book and how to get started in the Salis lab.
 
 ## Under Construction
 

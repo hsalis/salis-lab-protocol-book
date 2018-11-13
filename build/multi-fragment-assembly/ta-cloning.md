@@ -1,4 +1,4 @@
-# TA cloning
+# TA Cloning
 
 ## Purification of blunt-ended plasmid and addition of T-overhang
 

@@ -1,4 +1,4 @@
-# PCR cleanup
+# PCR Cleanup
 
 This protocol uses Zymo-Spin I Columns \(product number: C1003-250\) to recover ultra-pure DNA product from PCR, enzymatic reactions, and other sources. DNA can be eluted in as little as 5 uL and is ideal for DNA ligation, sequencing, labeling, PCR, microarray, transfection, transformation, restriction digestion, etc.
 

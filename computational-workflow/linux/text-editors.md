@@ -1,4 +1,4 @@
-# Text editors
+# Text Editors
 
 When we are editing code or reading code, we use a text editor \(**NOT** Window's Notepad or Microsoft Word\).
 

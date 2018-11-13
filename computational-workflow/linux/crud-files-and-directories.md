@@ -1,4 +1,4 @@
-# CRUD files & directories
+# CRUD Files & Directories
 
 Define CRUD. Describe basic CRUD operations.
 

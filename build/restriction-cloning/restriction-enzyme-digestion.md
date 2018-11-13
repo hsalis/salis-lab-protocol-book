@@ -1,4 +1,4 @@
-# Restriction enzyme digestion
+# Restriction Enzyme Digestion
 
 Restriction enzymes are one of the oldest tools in the molecular cloning toolbox. We use restriction enzymes to "cut" DNA. Most restriction enzymes leave a small DNA overhang on one of the two strands, these overhangs are referred to as "sticky ends" \(**Figure 1**\). Complementary sticky ends can anneal, which can then be ligated together via a [ligase](ligation-with-t4-dna-ligase.md), resulting in the connecting of two separate DNA fragments. Some restriction enzymes leave "blunt ends" which have other uses as well \(**Figure 2**\).
 

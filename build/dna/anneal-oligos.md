@@ -1,4 +1,4 @@
-# Anneal oligos
+# Anneal Oligonucleotides
 
 This protocol is for annealing two single-stranded oligonucleotides with complementary sequences \(Figure 1\). Heating followed by slow cooling facilitates hybridization.
 

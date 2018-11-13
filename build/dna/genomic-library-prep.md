@@ -1,4 +1,4 @@
-# Genomic Library Prep
+# Genomic Library Preparation
 
 `PROTOCOL DUMP PLEASE FORMAT`
 
