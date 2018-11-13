@@ -70,7 +70,7 @@
 
 ## Design & Build
 
-* [Plan and execute your DOE](build/plan-and-execute-your-doe.md)
+* [Plan and Execute Your DOE](build/plan-and-execute-your-doe.md)
 * [DNA](build/dna/README.md)
   * [Ordering DNA](build/dna/ordering-dna.md)
   * [DNA Assembly](build/dna/dna-assembly.md)
@@ -84,7 +84,7 @@
 * [Restriction Cloning](build/restriction-cloning/README.md)
   * [Restriction Enzyme Digestion](build/restriction-cloning/restriction-enzyme-digestion.md)
   * [Ligation with T4 DNA Ligase](build/restriction-cloning/ligation-with-t4-dna-ligase.md)
-* [Multi-fragment assembly](build/multi-fragment-assembly/README.md)
+* [Multi-Fragment Assembly](build/multi-fragment-assembly/README.md)
   * [Golden Gate](build/multi-fragment-assembly/golden-gate.md)
   * [LCR](build/multi-fragment-assembly/lcr.md)
   * [Gibson Assembly](build/multi-fragment-assembly/gibson-assembly.md)
