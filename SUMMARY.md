@@ -136,6 +136,8 @@
   * [Reverse Transcriptase \(RT\)](test/rna/reverse-transcriptase-rt.md)
   * [qPCR with TaqMan](test/rna/rt-qpcr.md)
   * [qPCR with SYBR Green](test/rna/sybr-green-real-time-pcr.md)
+  * [Targeted RNA-seq](test/rna/targeted-rna-seq.md)
+  * [Transcriptome RNA-seq](test/rna/transcriptome-rna-seq.md)
 * [Metabolite](test/metabolite/README.md)
   * [HPLC](test/metabolite/hplc.md)
   * [LC-MS](test/metabolite/lc-ms.md)
