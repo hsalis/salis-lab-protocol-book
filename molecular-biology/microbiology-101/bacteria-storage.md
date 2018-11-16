@@ -1,4 +1,4 @@
-# Bacteria storage
+# Storing Bacteria
 
 How do you `save` your work in a molecular biology lab? Following cloning, your DNA constructs \(e.g. constructed plasmids\), should be stored in the -20**°**C freezer. This is OK, but DNA has a shelf life \(~many years\) and does degrade at a slow rate. One preferred way to `save` your work is to [transform](../../build/transformation-and-integration/) your DNA into a cloning strain of E. coli and to store that cell line in the -80**°**C freezer. You can always streak these cells out on appropriate selective plates, and then subsequently perform a [plasmid prep](../../build/dna/plasmid-extraction.md) to extract the plasmid, i.e. `open` your work - to extend the file versioning analogy.
 

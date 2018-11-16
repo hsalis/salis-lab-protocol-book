@@ -60,12 +60,15 @@
 * [Microbiology 101](molecular-biology/microbiology-101/README.md)
   * [Autoclaving](molecular-biology/microbiology-101/autoclaving.md)
   * [Media Recipes](molecular-biology/microbiology-101/media-recipes.md)
-  * [Bacteria storage](molecular-biology/microbiology-101/bacteria-storage.md)
+  * [Growing Bacteria](molecular-biology/microbiology-101/growing-bacteria.md)
+  * [Storing Bacteria](molecular-biology/microbiology-101/bacteria-storage.md)
   * [Bacteriophages](molecular-biology/microbiology-101/bacteriophages.md)
 * [Lab Equipment](molecular-biology/lab-equipment/README.md)
+  * [Shaker Incubators](molecular-biology/lab-equipment/shaker-incubators.md)
   * [Genetic QPix2 Colony Picker](molecular-biology/lab-equipment/genetic-qpix2-colony-picker.md)
   * [NanoDrop](molecular-biology/lab-equipment/nanodrop.md)
   * [Thermal Cyclers](molecular-biology/lab-equipment/thermal-cyclers.md)
+  * [Microplate Reader](molecular-biology/lab-equipment/microplate-reader.md)
   * [Microplate Incubator](molecular-biology/lab-equipment/microplate-incubator.md)
 
 ## Design & Build
