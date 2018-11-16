@@ -1,20 +1,40 @@
+---
+description: >-
+  Microbial growth media provides nutrients and energy sources that microbes
+  need to grow and multiply.
+---
+
 # Media Recipes
 
-## LB Media
+The recipes on this page have been developed for or adapted to suit the needs of projects in our lab, primarily with a focus on bacteria, such as _Escherichia coli_. Each will make a defined volume, but they can be scaled up or down as needed. 
 
-Add to 1 L of ddH2O:
+{% hint style="info" %}
+When you see "ddH2O", that is referring to ultra-pure \(or double distilled\) water which can be found by the ice machine in the shared instrumentation space adjacent to the lab. This water should be your go-to for all media, enzymatic reactions, etc. Never use DI or standard tap water  from the lab sinks!
+{% endhint %}
+
+## LB \(Lysogeny Broth\)
+
+Also known as Luria-Bertani \(LB\) broth, one of the most widely used medium for the growth of bacteria \(Bertani, et al., 1951\). Formulation per one liter \(Add the following components to 1 L of ddH2O\):
 
 ```text
-* 10 g tryptone
-* 5 g yeast extract
-* 10 g NaCl
+10 g tryptone
+5 g yeast extract
+10 g NaCl
 ```
 
-OR add 25 g/L of DifcoTM LB Broth, Miller \(Luria-Bertani\)
+OR add 25 g/L of Difco LB Broth, Miller \(Luria-Bertani\).
 
 ## SOC
 
-Add 28.08 g `SOC Broth Base` to 980 mL ddH2O. Autoclave. Allow to cool, and aseptically add 20 mL filter sterilized 20 % glucose solution. \(See instructions on `SOC Broth Base` container\)
+**Super Optimal Broth** \(SOB medium\) is a nutrient-rich bacterial growth medium used for microbiological culture, generally of _Escherichia coli_. It was developed by Douglas Hanahan in 1983 and is an adjusted version of the commonly used LB media \(lysogeny broth\).  **Super Optimal broth with Catabolite repression** \(SOC\) is SOB with added glucose. SOC Medium is used in the final step of bacterial cell transformation to obtain maximal transformation efficiency of E. coli.
+
+First prepare 20% \(20 g / 100 mL\) glucose solution by adding 100 g glucose to 500 mL ddH2O, and filter sterilize using a 500 mL Nalgene® Rapid-Flow™ Filter Unit. This solution can be stored at your bench. Make sure to use aseptic technique when using it.
+
+Next, add 28.08 g SOC Broth Base to 980 mL ddH2O. Autoclave. Allow to cool to room temperature, and aseptically add 20 mL filter sterilized 20% glucose solution.
+
+{% hint style="info" %}
+Since SOC medium is super rich, it's extremely prone to contamination. You can aliquot out 15 or 50 mL volumes of SOC in VWR tubes so that if one tube gets contaminated, you can discard it, and use another, and you won't contaminate the entire SOC stock that you prepared!
+{% endhint %}
 
 ## LB Agar Plates
 
