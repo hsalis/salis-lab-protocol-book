@@ -58,9 +58,11 @@
 ## Molecular Biology
 
 * [Microbiology 101](molecular-biology/microbiology-101/README.md)
-  * [Autoclaving](molecular-biology/microbiology-101/autoclaving.md)
+  * [Personal Protective Equipment](molecular-biology/microbiology-101/personal-protective-equipment.md)
+  * [Aseptic Technique](molecular-biology/microbiology-101/autoclaving.md)
   * [Media Recipes](molecular-biology/microbiology-101/media-recipes.md)
   * [Growing Bacteria](molecular-biology/microbiology-101/growing-bacteria.md)
+  * [Enumerating Bacteria](molecular-biology/microbiology-101/enumerating-bacteria.md)
   * [Storing Bacteria](molecular-biology/microbiology-101/bacteria-storage.md)
   * [Bacteriophages](molecular-biology/microbiology-101/bacteriophages.md)
 * [Lab Equipment](molecular-biology/lab-equipment/README.md)

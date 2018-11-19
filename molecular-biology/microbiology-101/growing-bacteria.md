@@ -29,16 +29,6 @@ Most protocols will describe how to grow cells for that given protocol. For exam
 
 To add cells to liquid culture, you can either add another liquid culture with a pipette or you can "charge" a loop by touching a colony on a plate, another liquid culture, or a glycerol stock and then by putting the loop in the new media. Once you have used a charged loop, make sure to dip it in 100% ethanol and then hold it in a Bunsen burner flame until red hot to sterilize it.
 
-#### Measuring cell density
-
-There are two standard ways of measuring cell density in the lab:
-
-1. Measuring the optical density \(OD\), or turbidity, of a liquid cell culture with either the [NanoDrop](../lab-equipment/nanodrop.md) \(cuvette mode\) or in a 96-well microplate in the [TECAN Spark](../lab-equipment/microplate-reader.md). Usually the sample is measured at a wavelength of 600 nm, referred to as the OD600 value. The selection of 600 nm is because there is minimal absorption at that wavelength and you are only measuring light scattering. You are looking for a direct relationship between cell biomass and change in light transmission, that does not vary with physiology of the cell, the production of metabolites, or the media that is used. See the [NanoDrop](../lab-equipment/nanodrop.md) page for the protocol to measuring cell density.
-2. Counting colonies. This is an old school approach that can give a very reliable measurement for the number of _viable_ cells in a liquid culture. The protocol is as follows.
-
-#### Counting colonies
-
-1. 
 #### Fermentation
 
 To date \(11-13-18\) we don't do any fermentation in-lab, but rather outsource fermentation jobs to the Fermentation Core Facility \(downstairs in the ABE building\). In the future, it is very possible that we purchase or build bench-top bioreactor\(s\) or continuous culture setups. Usage and maintenance of such devices would be best documented in separate pages under Microbiology 101.

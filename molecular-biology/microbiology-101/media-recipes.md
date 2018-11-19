@@ -38,6 +38,8 @@ Since SOC medium is super rich, it's extremely prone to contamination. You can a
 
 ## LB Agar Plates
 
+Pouring a plate.
+
 Stock Concentrations
 
 * `Chloramphenicol` \(Cm\): 50 mg/mL in ethanol
