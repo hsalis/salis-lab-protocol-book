@@ -6,7 +6,7 @@ This page describes common laboratory procedures that can reduce the risk of cul
 
 #### Bunsen burner
 
-Bunsen burners are ubiquitous in experimental science, and for good reason too - they a multi-functional and are the single piece of equipment that allows aseptic technique at your bench. A Bunsen burner works by burning a continuous stream of flammable gas - usually natural gas \(methane\) - to \(1\) reduce the number of viable microorganisms suspended on dust particles in the air and \(2\) to flame things to sterilize them. To use your Bunsen burner:
+Bunsen burners are ubiquitous in experimental science, and for good reason too - they are multi-functional and are the single piece of equipment that allows aseptic technique at your bench. A Bunsen burner works by burning a continuous stream of flammable gas - usually natural gas \(methane\) - to \(1\) reduce the number of viable microorganisms suspended on dust particles in the air and \(2\) to flame things to sterilize them. To use your Bunsen burner:
 
 1. Place the burner in the middle of your bench, ensuring that nothing is above it where the flame will be.
 2. Open the valve just enough to hear a low-to-medium flow rate of gas.
