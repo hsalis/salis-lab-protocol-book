@@ -6,7 +6,7 @@ description: The many ways we grow our cells.
 
 Any standard microbiology textbook, wet lab manual, or online tutorial will describe how to grow bacteria, so I'll keep this page brief. I specifically put together this page to make note of advanced techniques to help save time and reagents. Depending on the workflow, we routinely use any of the following approaches. Typically culturing bacteria falls under either liquid culture or growth on solid media, and the ways you can accomplish growth are numerous. Check it out:
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Make sure to be using best practices including sterile \(aseptic\) technique and appropriate selection when growing or working with cell culture!
 {% endhint %}
 

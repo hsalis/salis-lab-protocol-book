@@ -46,7 +46,7 @@ The most common approach to sterilizing equipment and reagents is by using an [a
 7. Allow the autoclave to fully depressurize and the cycle to end before opening the autoclave door.
 8. **Warning, the contents are hot!** Use autoclave gloves to pick up the bin\(s\) and take them to your bench in lab. Allow items to cool as needed before use.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Wait to place VWR tape labels on your bottles after autoclaving! If you need to, write small labels on the autoclave tape so you know what each bottle is.
 {% endhint %}
 
@@ -61,7 +61,7 @@ In some cases, you may need to use [filter sterilization](https://tuttnauer.com/
 1. **Syringe with syringe filter**. Good for small liquid volumes. Insert the syringe without the filter, pull back on the plunge to pull up the liquid. Add the syringe filter to the syringe tip. Eject slowly in a sterile container by applying pressure on the plunge to push the liquid through the filter. Here's an [example video](https://www.youtube.com/watch?v=aHM_iu18m5E) demonstrating how to do this. 15 mL VWR tubes with caps can be considered sterile out of the bag and are a good container for filter sterilized media. Make sure you are using 0.22 µm pore size syringe filters, as these correctly filter out living cells.
 2. **Nalgene® Rapid-Flow™ Filter Units**. Good for liquid volumes ranging from 200 mL to 1 L. Select the appropriately sized filter unit. Connect one end of a tube to a vacuum nozzle, and the other end of the tube to the hose barb at the neck of the unit \(**Figure 2**\). Pour your prepared media into the top of the unit, cover with the lid, and open vacuum valve to begin sterilization. The liquid should transfer to the receiver bottle. When all liquid has passed the filter, turn off the vacuum, remove the filter, and cap the bottle. You can leave the media in this bottle, as it is sterile out of the bag. Make sure to label your bottle.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Make sure to filter sterilize this media at your bench using proper aseptic technique as discussed above. Make sure to handle liquids under flame during and following sterilization.
 {% endhint %}
 

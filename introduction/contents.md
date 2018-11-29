@@ -1,5 +1,9 @@
 # Contents
 
+{% hint style="warning" %}
+**Skip the intro!** Jump right to [Microbiology Lab](../molecular-biology/microbiology-101/) to get up to speed in the lab.
+{% endhint %}
+
 This is a two-part protocol-book. The first teaches fundamental computational skills necessary to succeed in the field of synthetic biology. You will learn how to \(1\) use existing tools and software to quickly design robust, functional genetic systems, and to \(2\) effectively develop your own scientific models and design algorithms. Sections include:
 
 1. **Computational Starter Guides**. This chapter includes a beginner's guide to [Linux](../computational-workflow/linux/), how to access and take advantage of our lab's [Computing Resources](../computational-workflow/server-computing/), how to be a [\#Pythonista](../computational-workflow/dev/) when cooking up your own tools.
@@ -8,7 +12,7 @@ This is a two-part protocol-book. The first teaches fundamental computational sk
 
 The second half teaches the molecular biology techniques and protocols required to build your designed genetic system. Chapters include:
 
-1. **Microbiology 101**. Basic techniques including, but not limited to, [how to autoclave media and glassware](../molecular-biology/microbiology-101/autoclaving.md), [how to store your bacteria](../molecular-biology/microbiology-101/bacteria-storage.md), and [how to deal with a phage outbreak](../molecular-biology/microbiology-101/bacteriophages.md) in the unfortunate event that one occurs.
+1. **Microbiology 101\***. Basic techniques including, but not limited to, [how to autoclave media and glassware](../molecular-biology/microbiology-101/autoclaving.md), [how to store your bacteria](../molecular-biology/microbiology-101/bacteria-storage.md), and [how to deal with a phage outbreak](../molecular-biology/microbiology-101/bacteriophages.md) in the unfortunate event that one occurs.
 2. **Design & Build**. Describes how to engineer your specific genetic system, how to design an set of experiments that best suits your project's needs, and techniques and protocols to build your system.
 3. **Test**. Methods to test your system's function.
 

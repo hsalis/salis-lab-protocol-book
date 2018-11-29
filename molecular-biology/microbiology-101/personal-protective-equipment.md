@@ -15,7 +15,9 @@ description: >-
 5. Lab coat \(optional, protocol specific\)
 6. Respirator \(protocol specific\)
 
+{% hint style="danger" %}
 \*Do not wear disposable gloves in the hallway, and do not open doors outside of the lab with gloves on. Dispose of the gloves, and get a new pair as needed. Avoid reusing your gloves to minimize contamination to you and your cultures.
+{% endhint %}
 
 ![An example of good PPE. Vision glasses are an acceptable form of eye protection.](../../.gitbook/assets/gingko-1219.jpg)
 
