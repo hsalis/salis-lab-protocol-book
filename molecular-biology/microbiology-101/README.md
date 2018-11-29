@@ -1,10 +1,12 @@
 ---
-description: Working in a microbiology lab is a skill.
+description: >-
+  Understanding how a wet lab operates is the first step in becoming a
+  successful synthetic biologist.
 ---
 
-# Microbiology 101
+# Microbiology Lab
 
-As a synthetic biology lab that works with prokaryotes, we are, at our core, a **microbiology lab**. Classical microbiology labs grow and study existing microbes, and as a synthetic biology group, we take it a step further and engineer microbes. The following section provides tips, tricks, protocols, and recipes to achieve the goals when working with microbes. Below, we've listed a few **best practices** that we believe will help lead you to success.
+As a synthetic biology team that works with prokaryotes, we are, at our core, a **microbiology lab**. Classical microbiology labs grow and study _existing_ microbes, and as a synthetic biology group, we take it a step further and engineer _novel_ microbes to do useful things for society. The following section provides tips, tricks, protocols, and recipes to achieve your goals in our lab. To start the section off, we've listed a few **best practices** that we believe will help lead you to success.
 
 #### Best Practices
 
@@ -19,5 +21,11 @@ As a synthetic biology lab that works with prokaryotes, we are, at our core, a *
 9. "Save" your progress by creating [glycerol stocks](bacteria-storage.md) and storing in the -80.
 10. Be mindful of your lab mates. Clean shared lab spaces.
 
+![Keep these best practices in mind as you begin and advance your research career!](../../.gitbook/assets/gingko-1460.jpg)
+
+  
+
+
+  
 
 

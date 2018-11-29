@@ -57,7 +57,7 @@
 
 ## Molecular Biology
 
-* [Microbiology 101](molecular-biology/microbiology-101/README.md)
+* [Microbiology Lab](molecular-biology/microbiology-101/README.md)
   * [Personal Protective Equipment](molecular-biology/microbiology-101/personal-protective-equipment.md)
   * [Aseptic Technique](molecular-biology/microbiology-101/autoclaving.md)
   * [Media Recipes](molecular-biology/microbiology-101/media-recipes.md)
