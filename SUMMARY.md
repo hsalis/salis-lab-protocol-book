@@ -1,12 +1,7 @@
 # Table of contents
 
 * [Salis Lab Protocol Book](README.md)
-
-## Introduction
-
-* [Introduction](introduction/introduction.md)
-* [Contribuing Authors](introduction/contribuing-authors.md)
-* [Contents](introduction/contents.md)
+* [Getting Started](contents.md)
 
 ## Modeling & Algorithms
 
