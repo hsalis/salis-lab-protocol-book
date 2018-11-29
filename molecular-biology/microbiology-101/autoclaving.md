@@ -16,12 +16,16 @@ Bunsen burners are ubiquitous in experimental science, and for good reason too -
 
 ### Bench practices
 
-1. Clean lab surfaces prior to and following use. Clean with 70% ethanol.
+1. Clean lab surfaces prior to and following use. Clean with 70% ethanol\*.
 2. Light spray and rub of 70% ethanol on gloves helps keep them clean during cell culture work. Alternatively discard gloves and get a new pair.
 3. Limit the duration that cultures or media are uncapped and exposed to air.
 4. Keep petri dishes closed whenever possible.
 5. Effectively sterilize inoculating loops, plate spreaders, and any other metal or flame-resistant tools that touched bacterial culture. Dip tool in 100% ethanol and flame. Flame inoculating loops until red hot to ensure complete sterilization.
 6. Avoid breathing on or touching cultures or media.
+
+{% hint style="info" %}
+\*To prepare 70% ethanol, combine 30 mL ddH2O and 70 mL 100% ethanol \(find in the flammables cabinet\), or a scaled volume with the same proportions. I like to put my 70% ethanol in a spray bottle for easy use at my bench. Find spare ethanol bottles around lab.
+{% endhint %}
 
 ## Working in the laminar flow unit
 
