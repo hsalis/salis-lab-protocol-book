@@ -8,27 +8,31 @@ description: >-
 
 The recipes on this page have been developed for or adapted to suit the needs of projects in our lab, primarily with a focus on bacteria, such as _Escherichia coli_. Each will make a defined volume, but they can be scaled up or down as needed. 
 
+{% hint style="success" %}
+Use the Table of Contents on the right to quickly navigate to the desired recipe.
+{% endhint %}
+
 {% hint style="info" %}
-When you see "ddH2O", that is referring to ultra-pure \(or double distilled\) water which can be found by the ice machine in the shared instrumentation space adjacent to the lab. This water should be your go-to for all media, enzymatic reactions, etc. Never use DI or standard tap water  from the lab sinks!
+ddH2O refers to ultra-pure water. ddH2O should be your go-to for all media and enzymatic reactions. Never use DI or standard tap water. Ultra-pure water can be found by the ice machine in the shared instrumentation space \(Lab 241\).
 {% endhint %}
 
 ## LB \(Lysogeny Broth\)
 
-Also known as Luria-Bertani \(LB\) broth, one of the most widely used medium for the growth of bacteria \(Bertani, et al., 1951\). Formulation per one liter \(Add the following components to 1 L of ddH2O\):
+Also known as Luria-Bertani \(LB\) broth, one of the most widely used medium for the growth of bacteria \(Bertani, et al., 1951\). Formulation per one liter \(add the following components to 1 L of ddH2O\):
 
-```text
-10 g tryptone
-5 g yeast extract
-10 g NaCl
-```
+1. 10 g tryptone
+2. 10 g NaCl
+3. 5 g yeast extract
 
-OR add 25 g/L of Difco LB Broth, Miller \(Luria-Bertani\).
+{% hint style="info" %}
+We order a prepared LB mix. Add 25 g per liter ddH2O of Difco LB Broth, Miller \(Luria-Bertani\).
+{% endhint %}
 
-## SOC
+## SOC \(Super Optimal Broth\)
 
-**Super Optimal Broth** \(SOB medium\) is a nutrient-rich bacterial growth medium used for microbiological culture, generally of _Escherichia coli_. It was developed by Douglas Hanahan in 1983 and is an adjusted version of the commonly used LB media \(lysogeny broth\).  **Super Optimal broth with Catabolite repression** \(SOC\) is SOB with added glucose. SOC Medium is used in the final step of bacterial cell transformation to obtain maximal transformation efficiency of E. coli.
+**Super Optimal Broth** \(SOB medium\) is a nutrient-rich bacterial growth medium used for microbiological culture, generally of _Escherichia coli_. It was developed by Douglas Hanahan in 1983 and is an adjusted version of the commonly used LB media \(lysogeny broth\).  **Super Optimal Broth with Catabolite Repression** \(SOC\) is SOB with added glucose. SOC Medium is used in the final step of bacterial cell transformation to obtain maximal transformation efficiency of E. coli.
 
-First prepare 20% \(20 g / 100 mL\) glucose solution by adding 100 g glucose to 500 mL ddH2O, and filter sterilize using a 500 mL Nalgene® Rapid-Flow™ Filter Unit. This solution can be stored at your bench. Make sure to use aseptic technique when using it.
+First prepare 20% \(20 g / 100 mL\) glucose solution by adding 100 g glucose to 500 mL ddH2O, and filter sterilize using a 500 mL Nalgene® Rapid-Flow™ Filter Unit. This solution can be stored at your bench. Make sure to use [aseptic technique](autoclaving.md) when using it.
 
 Next, add 28.08 g SOC Broth Base to 980 mL ddH2O. Autoclave. Allow to cool to room temperature, and aseptically add 20 mL filter sterilized 20% glucose solution.
 
@@ -36,9 +40,38 @@ Next, add 28.08 g SOC Broth Base to 980 mL ddH2O. Autoclave. Allow to cool to ro
 Since SOC medium is super rich, it's extremely prone to contamination. You can aliquot out 15 or 50 mL volumes of SOC in VWR tubes so that if one tube gets contaminated, you can discard it, and use another, and you won't contaminate the entire SOC stock that you prepared!
 {% endhint %}
 
-## LB Agar Plates
+## LB Agar \(Plates\)
 
-Pouring a plate.
+The addition of agar to LB results in the formation of a gel that bacteria can grow on, as they are unable to digest the agar but can gather nutrition from the LB within. The addition of an antibiotic to this gel allows for the selection of only those bacteria with resistance to that antibiotic - usually conferred by a plasmid carrying the antibiotic resistance gene.
+
+1. Add 15 g Bacto Agar to your LB recipe before autoclaving.
+2. Add a medium sized magnetic stir bar. Add foil and autoclave tape per usual. Autoclave.
+3. Transfer LB agar bottle to a hot plate and turn the magnetic stirring on to homogenize the liquid media. Allow the LB agar to cool to roughly 60°C \(or until it's just cool enough to touch for a few seconds, but still warm\).
+4. Add your antibiotic\(s\) if you are preparing selective media. Allow one minute for mixing.
+5. Using [aseptic technique](autoclaving.md), pour the molten LB agar into Petri dishes at your bench \(keep the sleeve\).
+6. Let the plates cool for at least 6 hours, or until the LB agar is solid.
+7. Store the sleeved plates \(label date and antibiotics used with VWR tape\) in the 4°C fridge.
+
+{% hint style="info" %}
+Addgene has a very detailed tutorial with YouTube video [here](https://www.addgene.org/protocols/pouring-lb-agar-plates/).
+{% endhint %}
+
+#### Recommendations
+
+1. Pour just enough molten LB agar into each Petri dish to cover the entire area. In some cases you may want to pour thicker plates; for example, you have long incubation times \(i.e. greater than 24 hours\).
+2. You can use a Pipet Aid \(auto-pipette\) with serological pipette to collect and dispense LB agar.
+3. Array the poured plates in a grid rather than stacking them to increase cooling speed.
+4. You can individually label your plates with the antibiotic used, date, and your initials. For example, I might write "Amp50 ACR". This helps when you are using multiple antibiotics.
+
+{% hint style="danger" %}
+Selective plates vary in mileage. LB agar plates with ampicillin should be used within two weeks. Plates with other antibiotics can typically be used within one month without reduced effectiveness. 
+{% endhint %}
+
+## Antibiotics
+
+
+
+
 
 Stock Concentrations
 
@@ -69,19 +102,6 @@ Tips & Tricks:
 **Anhydrotetracycline \(aTc\)**
 
 Prepare a 1,000 times stock solution: 100 ug/mL solution in 50% ethanol. Store in a foil-covered tube at -20 °C. Alex: Inducing with 0.625 ng/mL, I prepped a 600 u/mL stock and did 2 x1000 serial dilutions.
-
-## LB Agar Plates
-
-1. Add 25 g DifcoTM LB Broth, Miller \(Luria-Bertani\) & 15 g BactoTM Agar per 1 L ddH2O in a clean 1 L glass bottle \(does not have to be autoclaved\). Mix well by shaking.
-2. Add aluminum foil and a strip of autoclave tape on cap. Write initials on tape.
-3. Autoclave with liquid setting. Slightly loosen cap before autoclaving! You don’t want pressure build up in your bottle.
-4. Sit out on counter allow to cool \(enough that you can touch the glass with your bare hand without letting go\). While cooling, label plates \(e.g. “Cm50 ACR 05-16-16\).
-5. Add appropriate antibiotic \(see Antibiotics\), and mix well.
-6. Pour immediately into plates. Pour just enough media to cover bottom of plates.
-7. Let plates cool and solidify.
-8. Store in fridge.
-
-See shelf life chart on the deli fridge for when plates will start to go bad.
 
 ## TAE buffer
 
