@@ -1,10 +1,8 @@
 ---
-description: >-
-  Microbial growth media provides nutrients and energy sources that microbes
-  need to grow and multiply.
+description: Dietary requirements for your little ones and other needed recipes.
 ---
 
-# Media Recipes
+# Media & Recipes
 
 The recipes on this page have been developed for or adapted to suit the needs of projects in our lab, primarily with a focus on bacteria, such as _Escherichia coli_. Each will make a defined volume, but they can be scaled up or down as needed. 
 
