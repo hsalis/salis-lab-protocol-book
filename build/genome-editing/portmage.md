@@ -25,7 +25,7 @@
 12. Repeat step 11 once if the growth media is LB lennox and repeat step 11 twice if the media is SOC.
 13. Add 45-50 ul of the MAGE oligos to the microcentrifuge tube, resuspending the cells and transfer them to an electroporation cuvette.
 14. Incubate on ice 1 min and then put the cuvette into electroporator \(Eppendorf 2510\), set the voltage to 1800kV and electroporate.
-15. Resuspend in 500 uL SOC, transfer to culture tube, and incubate 30 min in 30-32°C incubator.
+15. Resuspend in 500 uL SOC, transfer to culture tube, and incubate 30-60 min in 30-32°C incubator.
 16. Add antibiotic to prewarmed 5 mL LB/SOC from step 8 to maintain pORTMAGE plasmid. Then, transfer to recovering MAGE cells.
 17. Put the tube into 30-32°C shaker to let the cells grow. This is the end of one cycle.
 18. To perform more MAGE cycles, use the culture tube from step 17 and go to step 5. If stopping for the day, resuspend recovery cells in LB + pORTMAGE antibiotic instead of SOC and grow overnight. This cultures is then used to resume at step 4. If stopping for longer, cryostock O/N culture the following morning to store a checkpoint of the cells.
