@@ -1,4 +1,79 @@
 # RBS Calculator
 
-A model to predict the translation initiation rate in bacteria. Can be used to engineer RBS sequences for tunable protein expression.
+## Summary
 
+The Ribosome Binding Site (RBS) Calculator is a design algorithm for predicting and controlling translation initiation and protein expression in bacteria across a 100,000-fold range. In Predict mode, the RBS Calculator calculates the translation initiation rate for every start codon in an mRNA transcript. In Design mode, the RBS Calculator generates an optimized synthetic RBS sequence to achieve a targeted translation initiation rate for an inputted protein coding sequence. Additional  design constraints can be used to customize the synthetic RBS sequence, for example, to include restriction sites or a constant upstream sequence.&#x20;
+
+#### Web Interface Links
+
+[RBS Calculator Predict Mode](https://www.denovodna.com/software/predict\_rbs\_calculator)
+
+[RBS Calculator Design Mode](https://www.denovodna.com/software/design\_rbs\_calculator)
+
+## RBS Calculator Predict Mode
+
+### **Inputs**
+
+**Title:** the name of your design job \[optional]
+
+**mRNA Sequence:** the nucleotide sequence of the mRNA transcript, starting from the transcriptional start site and ending at the transcriptional terminator. ATCGU nucleotides allowed.
+
+**Host Organism:** the bacterial species used to express the protein, selectable from a long list (start typing to narrow down your choices).
+
+**Free Energy Model Version:** the free energy model used to carry out predictions. New versions are developed as more interactions are quantitatively characterized and incorporated into the model.
+
+### Outputs
+
+**Translation Initiation Rates:** the calculated translation initiation rates for each start codon in the mRNA sequence. The rates are given on a proportional scale ranging from 1 to 100,000+.
+
+**Translated Open Reading Frames:** a plot showing the translation initiation rates for each protein coding sequence in the mRNA transcript at their respective locations. mRNA transcripts often contain multiple start codons, yielding multiple (potentially overlapping) open reading frames. The open reading frames with the highest translation initiation rates are favored by the ribosome for synthesis of the corresponding proteins.
+
+**Ribosome Binding Free Energy Calculations:** a detailed table showing the free energy calculations used to predict each start codon's translation initiation rate. Each Gibbs free energy change is the quantification of an interaction between the ribosome and mRNA that affects its translation initiation rate. [Read more about the RBS Calculator's free energy model](rbs-calculator-free-energy-model.md).&#x20;
+
+## RBS Calculator Design Mode
+
+### **Inputs**
+
+**Title:** the name of your design job \[optional]
+
+**Protein Coding Sequence:** the nucleotide sequence of the protein coding sequence, starting from the start codon and ending at the stop codon. ATCGU nucleotides allowed.
+
+**Target Translation Initiation Rate:** the desired translation initiation rate for your protein coding sequence, given on a proportional scale from 1 to 100,000+. The maximum possible translation initiation rate is over 5,000,000; however, depending on the protein coding sequence, the maximum rate is not always achievable.&#x20;
+
+**"Goal: Maximize Translation Initiation Rate":** check this box to design a synthetic RBS sequence with the highest possible translation initiation rate for your protein coding sequence. Warning: an excessively high translation rate may become toxic to cells, due to ribosome sequestration and metabolic burden.
+
+**Host Organism:** the bacterial species used to express the protein, selectable from a long list (start typing to narrow down your choices).
+
+### Advanced Options
+
+**Initial RBS Sequence:** sequence used to initialize the design of the synthetic RBS (ATCGU nucleotides allowed). Useful when designing synthetic RBSs with very high translation initiation rates (e.g. entering a previously designed synthetic RBS as the starting point for a new design calculation). \[optional]
+
+**Constant Upstream Sequence:** a nucleotide sequence that appears upstream of the synthetic RBS (ATCGU nucleotides allowed). Useful when adding upstream restriction sites, ribozymes, or any other mRNA sequence (e.g. a long 5' UTR that should remain unchanged). _**The constant upstream sequence must be part of the mRNA transcript.**_ \[optional]
+
+**RBS Sequence Constraints:** a degenerate nucleotide sequence that controls which nucleotides are allowed to be chosen during RBS design. Degenerate nucleotides follow the [nucleotide IUPAC code](../iupac-codes.md#iupac-nucleotide-code) (ATCGUSRMWKYVBDHN allowed). \[optional]
+
+**Free Energy Model Version:** the free energy model used to carry out predictions. New versions are developed as more interactions are quantitatively characterized and incorporated into the model. \[optional]
+
+### Outputs
+
+**Designed RBS sequence:** the ribosome binding site sequence generated by the RBS Calculator. The predicted translation initiation rate is also shown, specifically when this RBS sequence is placed upstream of the specified protein coding sequence. &#x20;
+
+**Translated Open Reading Frames:** a plot showing the translation initiation rates for each protein coding sequence in the mRNA transcript at their respective locations. Protein coding sequences often contain multiple start codons, yielding multiple (potentially overlapping) open reading frames. The open reading frames with the highest translation initiation rates are favored by the ribosome for synthesis of the corresponding proteins. _It is important to examine this plot to ensure that the specified protein coding sequence does not have any internal start codons with higher translation initiation rates._&#x20;
+
+**mRNA Stability Calculations:** the predicted decay rate of the mRNA transcript, assuming that there is only one protein coding sequence in the operon. The calculations consider the sequence and structure of the 5' untranslated region as well as the translation rate of the protein coding sequence. The contributions to the prediction include RNase binding probabilities and the level of ribosome protection (quantified by the average unprotected distance between ribosomes).&#x20;
+
+**Ribosome Binding Free Energy Calculations:** a detailed table showing the free energy calculations used to predict each start codon's translation initiation rate. Each Gibbs free energy change is the quantification of an interaction between the ribosome and mRNA that affects its translation initiation rate. [Read more about the RBS Calculator's free energy model](rbs-calculator-free-energy-model.md).&#x20;
+
+## Relevant Articles
+
+[Reis, A.C. & Salis, H.M. (2020). An automated model test system for systematic development and improvement of gene expression models. ACS Synthetic Biology, 9(11), 3145-3156.](https://doi.org/10.1021/acssynbio.0c00394)
+
+[Cetnar, D. P., & Salis, H. M. (2020). Systematic Quantification of Sequence and Structural Determinants Controlling mRNA stability in Bacterial Operons. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.07.22.216051v1)
+
+[Espah Borujeni, A., Cetnar, D., Farasat, I., Smith, A., Lundgren, N., & Salis, H. M. (2017). Precise quantification of translation inhibition by mRNA structures that overlap with the ribosomal footprint in N-terminal coding sequences. Nucleic acids research, 45(9), 5437-5448.](https://doi.org/10.1093/nar/gkx061)
+
+[Espah Borujeni, A. & Salis, H.M. (2016). Translation initiation is controlled by RNA folding kinetics via a ribosome drafting mechanism. Journal of the American Chemical Society, 138(22), 7016-7023.](https://doi.org/10.1021/jacs.6b01453)
+
+[Espah Borujeni, A., Channarasappa, A.S., & Salis, H.M. (2013). Translation rate is controlled by coupled trade-offs between site accessibility, selective RNA unfolding and sliding at upstream standby sites. Nucleic acids research, 42(4), 2646-2659.](https://doi.org/10.1093/nar/gkt1139)
+
+[Salis, H.M., Mirsky, E.A., & Voigt, C.A. (2009). Automated design of synthetic ribosome binding sites to control protein expression. Nature biotechnology, 27(10), 946.](https://dx.doi.org/10.1038/nbt.1568)
