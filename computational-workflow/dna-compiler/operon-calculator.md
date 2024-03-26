@@ -1,4 +1,0 @@
-# Operon Calculator
-
-
-

@@ -1,4 +1,0 @@
-# Non-Repetitive Parts Calculator
-
-
-
