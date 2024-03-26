@@ -6,9 +6,9 @@ The Ribosome Binding Site (RBS) Calculator is a design algorithm for predicting 
 
 #### Web Interface Links
 
-[RBS Calculator Predict Mode](https://www.denovodna.com/software/predict\_rbs\_calculator)
+[RBS Calculator Predict Mode](https://salislab.net/software/predict\_rbs\_calculator)
 
-[RBS Calculator Design Mode](https://www.denovodna.com/software/design\_rbs\_calculator)
+[RBS Calculator Design Mode](https://salislab.net/software/design\_rbs\_calculator)
 
 ## RBS Calculator Predict Mode
 
@@ -28,7 +28,7 @@ The Ribosome Binding Site (RBS) Calculator is a design algorithm for predicting 
 
 **Translated Open Reading Frames:** a plot showing the translation initiation rates for each protein coding sequence in the mRNA transcript at their respective locations. mRNA transcripts often contain multiple start codons, yielding multiple (potentially overlapping) open reading frames. The open reading frames with the highest translation initiation rates are favored by the ribosome for synthesis of the corresponding proteins.
 
-**Ribosome Binding Free Energy Calculations:** a detailed table showing the free energy calculations used to predict each start codon's translation initiation rate. Each Gibbs free energy change is the quantification of an interaction between the ribosome and mRNA that affects its translation initiation rate. [Read more about the RBS Calculator's free energy model](rbs-calculator-free-energy-model.md).&#x20;
+**Ribosome Binding Free Energy Calculations:** a detailed table showing the free energy calculations used to predict each start codon's translation initiation rate. Each Gibbs free energy change is the quantification of an interaction between the ribosome and mRNA that affects its translation initiation rate.
 
 ## RBS Calculator Design Mode
 
@@ -50,7 +50,7 @@ The Ribosome Binding Site (RBS) Calculator is a design algorithm for predicting 
 
 **Constant Upstream Sequence:** a nucleotide sequence that appears upstream of the synthetic RBS (ATCGU nucleotides allowed). Useful when adding upstream restriction sites, ribozymes, or any other mRNA sequence (e.g. a long 5' UTR that should remain unchanged). _**The constant upstream sequence must be part of the mRNA transcript.**_ \[optional]
 
-**RBS Sequence Constraints:** a degenerate nucleotide sequence that controls which nucleotides are allowed to be chosen during RBS design. Degenerate nucleotides follow the [nucleotide IUPAC code](../iupac-codes.md#iupac-nucleotide-code) (ATCGUSRMWKYVBDHN allowed). \[optional]
+**RBS Sequence Constraints:** a degenerate nucleotide sequence that controls which nucleotides are allowed to be chosen during RBS design. Degenerate nucleotides follow the [nucleotide IUPAC code](iupac-codes.md#iupac-nucleotide-code) (ATCGUSRMWKYVBDHN allowed). \[optional]
 
 **Free Energy Model Version:** the free energy model used to carry out predictions. New versions are developed as more interactions are quantitatively characterized and incorporated into the model. \[optional]
 
@@ -63,6 +63,33 @@ The Ribosome Binding Site (RBS) Calculator is a design algorithm for predicting 
 **mRNA Stability Calculations:** the predicted decay rate of the mRNA transcript, assuming that there is only one protein coding sequence in the operon. The calculations consider the sequence and structure of the 5' untranslated region as well as the translation rate of the protein coding sequence. The contributions to the prediction include RNase binding probabilities and the level of ribosome protection (quantified by the average unprotected distance between ribosomes).&#x20;
 
 **Ribosome Binding Free Energy Calculations:** a detailed table showing the free energy calculations used to predict each start codon's translation initiation rate. Each Gibbs free energy change is the quantification of an interaction between the ribosome and mRNA that affects its translation initiation rate. [Read more about the RBS Calculator's free energy model](rbs-calculator-free-energy-model.md).&#x20;
+
+# RBS Calculator Free Energy Model
+
+The RBS Calculator's free energy model quantifies the energetic (thermodynamic) interactions affecting the translation initiation rate of an individual start codon. These interactions are quantified in terms of Gibbs free energy changes, compared to a reference mRNA state in a system with constant temperature and pressure. The reference mRNA state is a fully unfolded mRNA that is not bound by the ribosome. Overall, the current equation for the RBS Calculator free energy model is:
+
+$$
+\Delta G_{total} = \Delta G_{standby} + \Delta G_{mRNA-rRNA} +\Delta G_{spacing} + \Delta G_{start} + \Delta G_{stacking} - \Delta G_{mRNA}
+$$
+
+From these calculations, the translation initiation rate $$(r)$$ of a start codon is then calculated according to Boltzmann's relationship:
+
+$$
+r = exp(-\beta\Delta G_{total})
+$$
+
+The constant$$\beta$$is a conversion factor from energy to probability under equilibrium conditions. In ideal (dilute) systems,$$\beta=1/RT$$ where R is the gas constant and T is temperature. However, based on empirical measurements, the value for$$\beta$$ is about $$0.45 \pm 0.05$$ mol/kcal inside the non-ideal (crowded) environment inside the cell.&#x20;
+
+The major interactions controlling translation initiation rate are:
+
+1. **Initial binding of the 30S small ribosomal subunit to upstream standby sites.** Upstream standby sites with different geometric accessibilities and structural unfolding free energies will lead to different rates of initial ribosome binding. The Gibbs free energy term $$\Delta G_{standby}$$ quantifies how well the 30S ribosomal subunit can bind to upstream standby sites. It is either zero for a fully accessible site and becomes more positive as the site is less favorably bound. There are three components to this free energy term:  $$\Delta G_{distortion}$$, $$\Delta G_{unfolding}$$, and $$\Delta G_{sliding}$$.&#x20;
+2. **Unfolding of mRNA structures that overlap with the ribosomal footprint surrounding the start codon.** mRNAs fold into structures. Before a ribosome can initiate translation, it must unfold any mRNA structures that overlap with its binding site. The ribosome's binding site (its physical footprint) extends from the 5' end of the 16S rRNA binding site to 13 nucleotides after the start codon. The Gibbs free energy term $$-\Delta G_{mRNA}$$ is the energy needed to unfold all mRNA structures within this region. More stable mRNA structures require more energy to unfold, leading to lower translation initiation rates.
+3. **Hybridization between mRNA and the 16S rRNA.** The superstructure of the 30S ribosomal subunit is made up of the 16S rRNA. The last 9 nucleotides of the 16S rRNA are accessible (in most bacteria) and is used by the ribosome to stabilize binding to mRNAs. Hybridization between the mRNA and 16S rRNA occurs at a sequence commonly known as the Shine-Dalgarno. The Gibbs free energy term $$\Delta G_{mRNA-rRNA}$$ is the quantification of this hybridization energy together with other mRNA-mRNA interactions do not require unfolding during translation initiation. A more negative free energy indicates a more favorable interaction at the Shine-Dalgarno sequence.
+4. **Start codon-tRNA interactions.** Inside the ribosome, the start codon base pairs to the tRNA-fMet. The canonical start codon AUG has perfect complimentary to the anti-codon loop of tRNA-fMet and therefore has the highest binding free energy. However, other non-canonical start codons (GUG, CUG, and UUG) can still base pair to tRNA-fMet, but with reduced binding free energies. The Gibbs free energy term $$\Delta G_{start}$$ is the free energy released when the start codon base pairs to tRNA-fMet. Translation initiation factors (IFs) can additionally alter these binding free energies.&#x20;
+5. **Stretching or compression of the ribosome by the spacer region.** The length of mRNA between the 16S rRNA binding site (Shine-Dalgarno sequence) and the start codon is called the spacer region. There is an optimal spacer length where the ribosome forms both contacts with distortion. However, if the spacer region is too long or too short, it causes the ribosome to stretch or compress, resulting in an energetic penalty. The Gibbs free energy term $$\Delta G_{spacing}$$ is the free energy penalty for stretching or compression of the 30S ribosomal subunit when bound. This term is zero when the spacer length is optimal and positive when the ribosome is either stretched or compressed.&#x20;
+6. **Certain motifs form unusual mRNA structures that alter ribosome binding.** Long stretches of homopolymer sequence in the spacer region cause stacking interactions (quantified by $$\Delta G_{stacking}$$). G-rich sequences may form unusually stable G-quadruplex structures. Pseudoknots may also form between long distance nucleotides that alter structure formation.&#x20;
+7. **Ribosome Drafting is a non-equilibrium phenomenon that increases a mRNA's translation initiation rate**. Ribosome Drafting takes place when a mRNA with slow-folding structures is successively bound by fast-binding ribosomes. Here, the mRNA structures do not have enough time to refold, eliminating the energetic penalty for unfolding these structures. The presence of Ribosome Drafting adds a kinetic component to determining the free energy needed to unfold mRNA structures,$$\Delta G_{mRNA}$$.
+8. **Certain motifs bind RNA-binding proteins that alter ribosome binding.** Examples include CsrA and Hfq in _Escherichia coli_.&#x20;
 
 ## Relevant Articles
 
