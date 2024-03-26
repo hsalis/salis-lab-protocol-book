@@ -56,21 +56,19 @@
   * [Microplate Incubator](molecular-biology/lab-equipment/microplate-incubator.md)
 
 ## Design Genetic Systems
-* [DNA Compiler](design/README.md)
+* Models and Design Algorithms
   * [Getting started](design/getting-started.md)
-  * [Dependencies](design/dependencies.md)
-  * [Glossary](design/glossary.md)
-  * [UIPAC Code](design/iupac-codes.md)
   * [RBS Calculator](design/rbs-calculator.md)
   * [RBS Library Calculator](design/rbs-library-calculator.md)
   * [Riboswitch Calculator](design/riboswitch-calculator.md)
-  * [RNA Switch Calculator](design/rna-switch-calculator.md)
   * [Operon Calculator](design/operon-calculator.md)
-  * [Pathway Map Calculator](design/pathway-map-calculator.md)
   * [Non-Repetitive Parts Calculator](design/non-repetitive-parts-calculator.md)
   * [Synthesis Success Calculator](design/synthesis-success-calculator.md)
   * [PyVRNA](design/pyvrna.md)
   * [RNAdynamics](design/rnadynamics.md)
+  * [Dependencies](design/dependencies.md)
+  * [Glossary](design/glossary.md)
+  * [UIPAC Code](design/iupac-codes.md)
   * [Jupyter tutorials](design/jupyter-tutorials.md)
 
 ## Build Genetic Systems
