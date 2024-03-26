@@ -61,7 +61,7 @@
   * [Dependencies](design/dependencies.md)
   * [Glossary](design/glossary.md)
   * [UIPAC Code](design/iupac-codes.md)
-  * [RBS Calculator](design/rbs-calculator/README.md)
+  * [RBS Calculator](design/rbs-calculator.md)
   * [RBS Library Calculator](design/rbs-library-calculator.md)
   * [Riboswitch Calculator](design/riboswitch-calculator.md)
   * [RNA Switch Calculator](design/rna-switch-calculator.md)
